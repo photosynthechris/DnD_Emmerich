@@ -7,11 +7,15 @@
         "id": "754fa2ea309671f9",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
+<<<<<<< Updated upstream
             "file": "Landing Page.md",
             "mode": "source",
             "source": false
+=======
+            "file": "concepts/mw_portal_room.png"
+>>>>>>> Stashed changes
           }
         }
       }
@@ -77,7 +81,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Landing Page.md",
+=======
+                "file": "concepts/mw_portal_room.png",
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +102,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Landing Page.md",
+=======
+                "file": "concepts/mw_portal_room.png",
+>>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +129,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Landing Page.md"
+=======
+                "file": "concepts/mw_portal_room.png"
+>>>>>>> Stashed changes
               }
             }
           }
@@ -128,10 +144,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "754fa2ea309671f9",
+  "active": "a5b406330be1610e",
   "lastOpenFiles": [
-    "concepts/Spatial Gate.md",
     "locations/Council of Existence.md",
+    "concepts/Spatial Gate.md",
     "entities/Universe.md",
     "locations/seat-of-god-header.jpg",
     "seat-of-god.jpg.md"
