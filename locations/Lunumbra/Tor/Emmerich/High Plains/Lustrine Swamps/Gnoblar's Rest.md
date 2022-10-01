@@ -1,0 +1,1 @@
+Gnoblar's Rest is a small clearing on the south eastern end of the Lustrine Swamps. It contains the [[Resting Gnoblar Inn & Tavern]], owned and operated by [[Bula]]

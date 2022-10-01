@@ -1,0 +1,1 @@
+The Lustrine Swamps are swamps formed in the delta of the [[Skyway River]] as it flows into the [[Great Northern Ocean]]. It's a subregion of the [[locations/Lunumbra/Tor/Emmerich/High Plains/High Plains]]. It contains [[Mont de Pierre]], built on the [[Rock of Luster]], as it's primary settlement. It also contains [[Gnoblar's Rest]].

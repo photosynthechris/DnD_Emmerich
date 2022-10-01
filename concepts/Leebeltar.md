@@ -1,0 +1,1 @@
+Radical anarchist libertarian faction which grew and overtook the city of [[Mont de Pierre]] following the [[Fall of the Republic]].

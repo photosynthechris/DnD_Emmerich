@@ -1,0 +1,1 @@
+Emmerich is a continent on the planet [[Tor]]. It contains a number of regions, including [[locations/Lunumbra/Tor/Emmerich/High Plains/High Plains]]. It's bordered to the north by the [[Great Northern Ocean]].

@@ -1,0 +1,3 @@
+A nasty tavern filled with seedy folk, most of the dregs of society you expect to find in this decaying city. You better watch your back here, you may just be challenged just for looking at someone wrong.
+
+At the helm of the Tavern is Rotgut, a nasty dwarf man, foul and crude. Rotgut is connected however to much of the city’s workings, and may turn into a valuable ally, but is only interested in his own profit. He has heard word of a brewing rebellion somewhere in the city, and sees a fantastic money making opportunity.
