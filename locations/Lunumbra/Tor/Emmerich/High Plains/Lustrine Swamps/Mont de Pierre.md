@@ -1,6 +1,6 @@
 ---
 tags:
-  - location/Lunumbra/Tor/Emmerich
+  - location/Lunumbra/Tor/Emmerich/High_Plains/Mont_de_Pierre
   - science/energy/physical
   - mundane
   - settlement

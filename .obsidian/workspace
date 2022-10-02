@@ -137,13 +137,14 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "79db6cb67093be65",
+  "active": "160c5a3fff5175bc",
   "lastOpenFiles": [
     "events/timeline/9th era/9th Era.md",
     "entities/Eldritch/Lunumbra (Entity).md",
