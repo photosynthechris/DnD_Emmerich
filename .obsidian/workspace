@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "organizations/Lunumbra/Tor/Emmerich/Continental Republic.md",
-            "mode": "source",
+            "file": "constructions/Buildings/Tor/Emmerich/High Plains/Mont de Pierre/Lower City/West Gate/Temple of Eilistrae.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "organizations/Lunumbra/Tor/Emmerich/Continental Republic.md",
+                "file": "constructions/Buildings/Tor/Emmerich/High Plains/Mont de Pierre/Lower City/West Gate/Temple of Eilistrae.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "organizations/Lunumbra/Tor/Emmerich/Continental Republic.md",
+                "file": "constructions/Buildings/Tor/Emmerich/High Plains/Mont de Pierre/Lower City/West Gate/Temple of Eilistrae.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "organizations/Lunumbra/Tor/Emmerich/Continental Republic.md"
+                "file": "constructions/Buildings/Tor/Emmerich/High Plains/Mont de Pierre/Lower City/West Gate/Temple of Eilistrae.md"
               }
             }
           },
@@ -146,6 +146,7 @@
   },
   "active": "79db6cb67093be65",
   "lastOpenFiles": [
+    "organizations/Lunumbra/Tor/Emmerich/Continental Republic.md",
     "Meta/templates/Article Template.md",
     "constructions/Buildings/Tor/Emmerich/High Plains/Mont de Pierre/Lower City/West Gate/Temple of Eilistrae.md",
     "Meta/Tag Guidance.md",
@@ -154,7 +155,6 @@
     "organizations/Lunumbra/Tor/Emmerich/Raven's Sheild Institution of Arcana and Natural Sciences.md",
     "organizations/Lunumbra/Tor/Emmerich/Mont de Pierre Liberation Movement.md",
     "organizations/Lunumbra/Tor/Emmerich/Kuunsterkollektiv.md",
-    "organizations/Lunumbra/Tor/Emmerich/Domus Iustitiae.md",
-    "organizations/Lunumbra/Tor/Emmerich/Council of the Mont.md"
+    "organizations/Lunumbra/Tor/Emmerich/Domus Iustitiae.md"
   ]
 }
