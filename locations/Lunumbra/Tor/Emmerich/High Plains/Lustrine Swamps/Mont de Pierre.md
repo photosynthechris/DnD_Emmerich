@@ -17,7 +17,7 @@ aliases:
 *This is a starting quote for the article.*
 ___
 
-Mont de Pierre is a small decayed city on the northern coast of the continent of [[Emmerich]]. It is the seat of the [[locations/Lunumbra/Tor/Emmerich/High Plains/High Plains]] region of the continent. Owing to it's position on the shore of the [[Great Northern Ocean]], alongside the [[Skyway River]], and at the intersection of the [[Intercontinental Highway of Emmerich]] and [[Raul's Route]], the city has historically been a major center of commerce, travel, and scholarship. The city is built atop the [[Rock of Luster]], a large chunk of limestone and granite deposit ejected from Emmerich's western shores during the [[Last Uprising]].
+Mont de Pierre is a small decayed city on the northern coast of the continent of [[Emmerich]]. It is the seat of the [[High Plains]] region of the continent. Owing to it's position on the shore of the [[Great Northern Ocean]], alongside the [[Skyway River]], and at the intersection of the [[Intercontinental Highway of Emmerich]] and [[Raul's Route]], the city has historically been a major center of commerce, travel, and scholarship. The city is built atop the [[Rock of Luster]], a large chunk of limestone and granite deposit ejected from Emmerich's western shores during the [[Last Uprising]].
 
 ___
 

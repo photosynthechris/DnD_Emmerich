@@ -144,8 +144,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "160c5a3fff5175bc",
+  "active": "79db6cb67093be65",
   "lastOpenFiles": [
+    "locations/Lunumbra/Tor/Emmerich/High Plains/High Plains.md",
+    "locations/Lunumbra/Tor/Emmerich/High Plains/Lustrine Swamps/Mont de Pierre.md",
     "events/timeline/9th era/9th Era.md",
     "entities/Eldritch/Lunumbra (Entity).md",
     "entities/Characters/Kadek Warpstone.md",
@@ -153,8 +155,6 @@
     "constructions/Buildings/Tor/Emmerich/High Plains/Mont de Pierre/Upper City/Steenschlass.md",
     "Meta/Session Notes/Session 9-25.md",
     "Meta/templates/Article Template.md",
-    "concepts/Spatial Gate.md",
-    "Meta/Player Brainstorms/Westion Questions.md",
-    "objects/book/Starmap of Soltorwalden.md"
+    "concepts/Spatial Gate.md"
   ]
 }
