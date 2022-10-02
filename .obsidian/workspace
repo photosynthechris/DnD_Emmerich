@@ -9,19 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "constructions/Buildings/Tor/Emmerich/High Plains/Mont de Pierre/Middle City/Winstel's Market.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "05add40fc851c474",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "entities/Characters/Alric Winstell.md",
+            "file": "constructions/Buildings/Tor/Emmerich/High Plains/Mont de Pierre/Lower City/West Gate/Temple of Eilistrae.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "entities/Characters/Alric Winstell.md",
+                "file": "constructions/Buildings/Tor/Emmerich/High Plains/Mont de Pierre/Lower City/West Gate/Temple of Eilistrae.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "entities/Characters/Alric Winstell.md",
+                "file": "constructions/Buildings/Tor/Emmerich/High Plains/Mont de Pierre/Lower City/West Gate/Temple of Eilistrae.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -129,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "entities/Characters/Alric Winstell.md"
+                "file": "constructions/Buildings/Tor/Emmerich/High Plains/Mont de Pierre/Lower City/West Gate/Temple of Eilistrae.md"
               }
             }
           },
@@ -156,17 +144,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "05add40fc851c474",
+  "active": "79db6cb67093be65",
   "lastOpenFiles": [
+    "Meta/templates/Article Template.md",
+    "constructions/Buildings/Tor/Emmerich/High Plains/Mont de Pierre/Lower City/West Gate/Temple of Eilistrae.md",
     "constructions/Buildings/Tor/Emmerich/High Plains/Mont de Pierre/Middle City/Winstel's Market.md",
     "entities/Characters/Alric Winstell.md",
     "entities/Characters/Untitled.md",
     "constructions/infrastructure/Intercontinental Highway of Emmerich.md",
     "Meta/Tag Guidance.md",
-    "constructions/Buildings/Tor/Emmerich/High Plains/Mont de Pierre/Lower City/West Gate/Temple of Eilistrae.md",
     "locations/Lunumbra/Tor/Emmerich/Emmerich.md",
     "locations/Lunumbra/Tor/Emmerich/High Plains/Lustrine Swamps/Lustrine Swamps.md",
-    "locations/Lunumbra/Tor/Emmerich/High Plains/Lustrine Swamps/Mont de Pierre.md",
-    "locations/Lunumbra/Tor/Emmerich/High Plains/High Plains.md"
+    "locations/Lunumbra/Tor/Emmerich/High Plains/Lustrine Swamps/Mont de Pierre.md"
   ]
 }
