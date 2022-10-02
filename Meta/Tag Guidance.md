@@ -37,4 +37,4 @@ ___
 	 - westen
 	 - ali
 - campaign
-	- shattered-moon-3
+	- shattered-moon
