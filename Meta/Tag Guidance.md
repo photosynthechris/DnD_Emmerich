@@ -38,3 +38,40 @@ ___
 	 - ali
 - campaign
 	- shattered-moon
+
+___
+
+### Organization
+
+ - government
+	 - monarchy
+	 - democracy
+	 - communism
+	 - etc...
+ - 
+
+___
+
+### Object
+
+___
+
+### Location
+
+___
+
+### Entity
+
+___
+
+### Construct
+
+___
+
+### Concept
+
+___
+
+### Event
+
+___
