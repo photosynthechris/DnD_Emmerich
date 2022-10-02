@@ -70,7 +70,13 @@ ___
 
 ### Object
 
- - 
+ - type
+	 - arcana
+	 - book
+	 - weapon
+	 - apparel
+		 - armor
+	 - 
 
 ___
 
