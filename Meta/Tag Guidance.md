@@ -76,11 +76,43 @@ ___
 	 - weapon
 	 - apparel
 		 - armor
-	 - 
+	 - potions
+	 - misc
+	 - gear
+ - trait
+	 - electric (physical energy)
+	 - magic (magical energy)
+	 - possessed (spiritual energy)
+	 - physical (physical matter)
+	 - will (magical matter)
+	 - plasm (spiritual matter)
+	 - mechanical
+	 - electronic
+		 - digital
+		 - analog
+	- size
+		- microscopic
+		- palm-held
+		- hand-held
+		- person-scale
+		- building
+		- megalithic
+	- vehicular
+	- life-sustaining
+		- type
+	- status
+		- fabled
+		- rumored
+		- lost
+		- known
+		- held
+		- destroyed
 
 ___
 
 ### Location
+
+
 
 ___
 
