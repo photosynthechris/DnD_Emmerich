@@ -48,11 +48,29 @@ ___
 	 - democracy
 	 - communism
 	 - etc...
- - 
+ - religion
+	 - deity or pantheon
+ - paramilitary
+	 - type, government, private, religious, cult, etc.
+ - cult
+	 - focus
+- private
+	- business
+	- mob
+- trait
+	- education
+	- racial
+	- economic
+	- subsidiary
+	- alignment
+		- All alignments
+	- faction-head
 
 ___
 
 ### Object
+
+ - 
 
 ___
 
