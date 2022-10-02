@@ -29,9 +29,11 @@ The Temple is renowned for it's striking architecture, resembling a large octago
 
 ___
 
-An image can go here!
+![[temple_of_eilistrae.png]]
 
 ___
+
+## Temple of Eilistrae
 
 | | |
 |:------|------:|
