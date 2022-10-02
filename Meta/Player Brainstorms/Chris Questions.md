@@ -16,7 +16,7 @@ Chris Essek is Chronoturgy
 
 Homebrew some spells
 
-Peyton Essek was involved in experimentation in [Redacted previous era] trying to develop portal connection to [redacted off-world location:BBH]. Occured before first emergence of Entity into this world. Devastation at facility spawned first black rain and destroyed the moon and much of Tor's surface. Essek was in an area of the facility that created a chrono vortex due to reflection pattern of gravitational waves, which catapulted Peyton Essek to the 9th era. Time-travel sickness caused amnesia in Essek as he left 100k year old remains of Groom facility, navigated through the under dark. On emmergence into bright sunlight of the mountain under dark entrance, amnesia was ended but original memories were still locked by chronological displacement and distortion of Chris Essek's spiritual energy, leading to Chris Essek.
+Peyton Essek was involved in experimentation in [Redacted previous era] trying to develop portal connection to [redacted off-world location:BBH]. Occurred before first emergence of Entity into this world. Devastation at facility spawned first black rain and destroyed the moon and much of Tor's surface. Essek was in an area of the facility that created a chrono vortex due to reflection pattern of gravitational waves, which catapulted Peyton Essek to the 9th era. Time-travel sickness caused amnesia in Essek as he left 100k year old remains of Groom facility, navigated through the under dark. On emergence into bright sunlight of the mountain under dark entrance, amnesia was ended but original memories were still locked by chronological displacement and distortion of Chris Essek's spiritual energy, leading to Chris Essek.
 
 ___
 

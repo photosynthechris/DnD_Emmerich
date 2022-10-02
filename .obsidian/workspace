@@ -9,9 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "locations/Lunumbra/Tor/Emmerich/High Plains/Lustrine Swamps/Mont de Pierre.md",
+            "file": "Meta/Tag Guidance.md",
             "mode": "source",
-            "source": false
+            "source": true
           }
         }
       }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "locations/Lunumbra/Tor/Emmerich/High Plains/Lustrine Swamps/Mont de Pierre.md",
+                "file": "Meta/Tag Guidance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "locations/Lunumbra/Tor/Emmerich/High Plains/Lustrine Swamps/Mont de Pierre.md",
+                "file": "Meta/Tag Guidance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "locations/Lunumbra/Tor/Emmerich/High Plains/Lustrine Swamps/Mont de Pierre.md"
+                "file": "Meta/Tag Guidance.md"
               }
             }
           },
@@ -146,15 +146,15 @@
   },
   "active": "79db6cb67093be65",
   "lastOpenFiles": [
-    "locations/Lunumbra/Tor/Emmerich/High Plains/High Plains.md",
+    "Meta/Player Brainstorms/Westion Questions.md",
+    "Meta/Player Brainstorms/Chris Questions.md",
     "locations/Lunumbra/Tor/Emmerich/High Plains/Lustrine Swamps/Mont de Pierre.md",
+    "locations/Lunumbra/Tor/Emmerich/High Plains/High Plains.md",
     "events/timeline/9th era/9th Era.md",
     "entities/Eldritch/Lunumbra (Entity).md",
     "entities/Characters/Kadek Warpstone.md",
     "constructions/Buildings/Tor/Emmerich/High Plains/Mont de Pierre/Lower City/West Gate/Temple of Eilistrae.md",
     "constructions/Buildings/Tor/Emmerich/High Plains/Mont de Pierre/Upper City/Steenschlass.md",
-    "Meta/Session Notes/Session 9-25.md",
-    "Meta/templates/Article Template.md",
-    "concepts/Spatial Gate.md"
+    "Meta/Session Notes/Session 9-25.md"
   ]
 }

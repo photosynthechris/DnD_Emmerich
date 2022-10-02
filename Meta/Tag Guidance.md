@@ -21,3 +21,20 @@ ___
  - Construct: this denotes a solid construction of any kind in any location. Generally, natural structures are not considered constructs, instead following under the category of "locations". Constructs generally refer to stationary items built into or onto natural or artificial objects/constructions, as opposed to mobile, independent items.
  - Concept: this denotes abstract concepts that don't have a solid form, rather primarily being concieved of in character's minds. This generally refers to man-made ideas, however the larger metaphysical concepts of the universe and multiverse also fall under this category, as they can only be perceived to the players as abstract ideas.
  - Event: Events refers to any moment in time during or before any campaign. This can also include time periods, like centuries and eras.
+
+## Tags per Article Types
+
+___
+
+### Meta:
+
+ - template
+ - notes
+ - brainstorm
+ - pc
+	 - chris
+	 - haley
+	 - westen
+	 - ali
+- campaign
+	- 
