@@ -25,7 +25,7 @@ An image can go here!
 
 ___
 
-*{Article Type, or relevant subtitle}*
+## Mont de Pierre during the 9th Era
 
 | | |
 |:------|------:|
@@ -58,6 +58,10 @@ ___
 ___
 
 ## History
+
+### Pre Founding
+
+
 
 The city was founded several thousand years ago out of an alliance of several disparate villages in the [[Lustrine Swamps]]. Starting as simple wooden settlements around the base of the Rock of Luster, the city eventually expanded up, over, and into the Rock itself. At it's most recent height, the city was a member of the [[Continental Republic]], and supported a robust population of 300,000 people. At this time, the city was governed by the [[Council of the Mont]], a meritocritus council of the city's premiere Guild-masters, scholars, merchant men, and multiple citizen's represenatatives.
 
