@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "events/timeline/9th era/9th Era.md",
+            "file": "organizations/Lunumbra/Tor/Emmerich/Continental Republic.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "events/timeline/9th era/9th Era.md",
+                "file": "organizations/Lunumbra/Tor/Emmerich/Continental Republic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "events/timeline/9th era/9th Era.md",
+                "file": "organizations/Lunumbra/Tor/Emmerich/Continental Republic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "events/timeline/9th era/9th Era.md"
+                "file": "organizations/Lunumbra/Tor/Emmerich/Continental Republic.md"
               }
             }
           },
@@ -146,15 +146,15 @@
   },
   "active": "79db6cb67093be65",
   "lastOpenFiles": [
-    "constructions/Buildings/Tor/Emmerich/High Plains/Mont de Pierre/Lower City/West Gate/Temple of Eilistrae.md",
     "events/timeline/9th era/9th Era.md",
-    "events/timeline/9th era/9E_2nd Century.md",
+    "events/timeline/9th era/Fall of the Republic.md",
+    "events/timeline/8th era/8th Era.md",
     "locations/Lunumbra/Tor/Emmerich/High Plains/Lustrine Swamps/Mont de Pierre.md",
+    "constructions/Buildings/Tor/Emmerich/High Plains/Mont de Pierre/Lower City/West Gate/Temple of Eilistrae.md",
+    "events/timeline/9th era/9E_2nd Century.md",
     "organizations/Lunumbra/Tor/Emmerich/Mont de Pierre Liberation Movement.md",
     "organizations/Lunumbra/Tor/Emmerich/Council of the Mont.md",
     "locations/Lunumbra/Tor/Emmerich/High Plains/Underdark/Eiliut.md",
-    "locations/Lunumbra/Tor/Emmerich/Grouschold Range.md",
-    "Meta/templates/Article Template.md",
-    "constructions/Buildings/Tor/Emmerich/High Plains/Mont de Pierre/Middle City/Winstel's Market.md"
+    "locations/Lunumbra/Tor/Emmerich/Grouschold Range.md"
   ]
 }

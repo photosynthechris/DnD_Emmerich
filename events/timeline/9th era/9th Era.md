@@ -1,14 +1,14 @@
 ---
 tags:
-  - meta\template
+  - event/timeline/9E
 aliases:
   - Era of Shadows
 ---
 # 9th Era
-*This is a starting quote for the article.*
+*A new age, clouded in shadow. An old world, lost in the mists. As in the last moments of the night before the break of day.*
 ___
 
-This is the introductory paragraph of the article. This should include a basic summary of the article's contents to the extent that's reasonable.
+The 9th Era is the current era of history on [[Tor]]. It is only 437 years old. The 9th age thus far has been primarily notable for it's decline of civilized governments, dissolution of organized society, and general struggle and strife in [[Emmerich]], largely caused by the cataclysmic [[Concentrate Bomb#Detonation|Great Flash]] which concluded the [[8th Era]] and began this one.
 
 ___
 
@@ -33,7 +33,7 @@ ___
 
 ___
 
-## Section 1
+## First Century
 This is the meat of section 1.
 > *This is how we format block quotes.*
 
@@ -43,7 +43,7 @@ This is the meat of section 1.
 
 ___
 
-## Section 2
+## Second Century
 > *{This is where we'd put an image.}*
 > *This is the subtitle of an image.*
 
@@ -51,10 +51,16 @@ This is the meat of section 2.
 
 ___
 
-## Section 3
+## Third Century
 This is the meat of section 3.[^1]
 > [!Title]
 > This is the meat of the callout
+
+___
+
+## Fourth Century
+
+This is the meat of section 4.
 
 ___
 
