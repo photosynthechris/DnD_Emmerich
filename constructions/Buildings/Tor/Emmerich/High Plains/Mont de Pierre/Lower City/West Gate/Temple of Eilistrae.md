@@ -87,7 +87,7 @@ This is the current staff of the Temple Eilistrae, not including members of the 
 |Title|Title Description|Name|Dates Occupied|
 |:-:|:-:|:-:|:-:|
 |High Priestess|Director of ritual, observances, and religious study at the temple, main liason to the Pact and the parent cathedral in the Drow underdark|[[Regina Elrora]]|22 years ago to current year|
-|Master of the Crypt||[[Cyran Araqen]]|197 years ago to current year|
+|Master of the Crypt|Caretaker of the Temple, master of inventories, key keeper.|[[Cyran Araqen]]|197 years ago to current year|
 
 
 This is the meat of section 3.[^1]
