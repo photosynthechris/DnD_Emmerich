@@ -23,7 +23,7 @@ ___
 
 The **Temple of Eilistrae** is a Drow temple in the [[Mont de Pierre#Western Gate|Western Gate]] district of the city of [[Mont de Pierre]]. It is dedicated to the goddess [[Eilistrae]], and is only open to Drow parishioners and the temple priestesses.
 
-The Temple was completed in the [[9E_2nd Century|219th year]] of the [[9th Era|Era of Shadows]] by the Drow Priestess [[Eliana of Eilistrae]], exile of the Drow city [[Eiliut]]. It serves as a chapel for Drow travelers travelling the [[Intercontinental Highway of Emmerich|Ihe]]. Additionally, it is the headquarters of the [[Pact of the Disdained]], a secret paramilitary organization exerting influence in Eiliut, Mont de Pierre, and in the greater [[High Plains]] region.
+The Temple was completed in the [[9th Era#2nd Century|219th year]] of the [[9th Era|Era of Shadows]] by the Drow Priestess [[Eliana of Eilistrae]], exile of the Drow city [[Eiliut]]. It serves as a chapel for Drow travelers travelling the [[Intercontinental Highway of Emmerich|Ihe]]. Additionally, it is the headquarters of the [[Pact of the Disdained]], a secret paramilitary organization exerting influence in Eiliut, Mont de Pierre, and in the greater [[High Plains]] region.
 
 The Temple is renowned for it's striking architecture, resembling a large octagonal crystal vertically jutting out of the landscape. It is made from the rare material [[magnesite]], a derivative of magnetite well known for it's aesthetic qualities. It has four entrances, one in each cardinal direction, and contains a [[Dimensions#Pockets|pocket dimension]] to contain more space inside the chapel.
 
