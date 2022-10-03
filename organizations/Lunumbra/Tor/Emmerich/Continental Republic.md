@@ -16,7 +16,7 @@ The **Continental Republic** was a federal organization of city-states and state
 
 The Republic was initially successful in these aims. After the apparent defeat of the Entity at the legendary [[Battle of Two Songs]] in the summer of [[8th Era#Nineteenth Century|8E:1851]], Republican attention turned to increasing quality of life and general development on the continent. By the beginning of the [[Fall of the Republic|Time of Troubles]], Alliance cities enjoyed public electricity and lighting, running water and sewage, mass communication, and rapid transit. Continental projects, such as the [[Intercontinental Highway of Emmerich]], gave hundreds of thousands of residents the means to visit the continent's great cities and connected communities in a way that hadn't been seen for many many years.
 
-
+By [[8th Era#Twentieth Century|8E:1947]] it became undeniable that the Entity had not perished in Two Songs as was widely believed, but had in fact continued to grow in strength through the [[Entity's Will|Mold]] it propagated through the continent's poorly connected underdark, and the Republic's growing [[Electro-Magical Theory|electro-magical energy networks]]. Work began on the [[Concentrate Bomb]] soon after, aided by the discovery of [[Entity's Will#Crystals|Entity derived crystals]] found in the deep caves under the western mountains. 
 
 ___
 
