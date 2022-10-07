@@ -31,7 +31,9 @@ As Poogey moves towards the light, a fog rolls in. After walking what feels like
 
 Poogey enters the cabin, to see himself, 5 years younger and unmeasurably more innocent than the Poogey of today, assisting his wife in the preparation of their supper stew.
 
-Avela: "Gertrudis, dear"
+Avela: "Gertrudis, dear, you've been slaving over that book for hours now, you're going to strain your eyes. Come have some stew, would you?"
+
+Poogey: 
 
 ### Essek
 April 5, 1993
