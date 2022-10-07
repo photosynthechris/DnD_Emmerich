@@ -29,7 +29,7 @@ As Poogey moves towards the light, a fog rolls in. After walking what feels like
 
 Suddenly, he finds himself inside. He remembers this home in it's every detail. The small fireplace they had on the southern wall, the modest collection of books he had gathered on his travels to [[Oakgrove]], their kitchen and dining space on the northern side of the house, and the modest loft where they slept above their small, but cozy, living space. His wife is busy busy over a stew, slow boiling on the wrought iron stove, while Poogey's younger self, Gertrudis, 6 years ago and unmeasurably more innocent than the Poogey of today, sits at their dining table deep in study of a book.
 
-Their life was, for the most part, a good one. Living around Jorvik but outside of the jurisdictions of the pirates and the nobility had it's perks, and they generally enjoyed the little community of Oakgrove. Gertrudis had been concerned of rumors of a growing sect of religious fanatics in the elf lands to the northeast, but hadn't paid these rumors any mind. How wrong he had been...
+Their life was, for the most part, a good one. Living around Jorvik but outside of the jurisdictions of the pirates and the nobility had it's perks, and they generally enjoyed the little community of Oakgrove. Gertrudis had been concerned of rumors of a growing sect of (*aasimar and high elf*) religious fanatics in the elf lands to the northeast, but hadn't paid these rumors any mind. How wrong he had been...
 
 The space should have been warm, comfortable, welcoming, and filled with the rich smell of the stew, made from the small garden they maintained. Instead, Poogey feels cold, smells nothing, and his heart contains nothing but the deepest, darkest sense of foreboding, and dread.
 
@@ -81,9 +81,20 @@ Avela: "Gertrudis, dear, you've been slaving over that book for hours now, you'r
 
 Poogey: "I'll be that way in just a second Avela, I've got just "
 
+___
 ### Essek
-April 5, 1993
+___
+*It'll need to include the vision they got from the lunar shrine, but I'm not sure what that'll be yet, and if that'll connect to his past. If it does, it'll include some representation of the number below.*
 
-04051993
-4051993
+%% April 5 1993 %%
 4,051,993
+
+___
+### Kelda
+___
+*This will include a commune with the forest spirit, the embodiment of the lustrine swamps. Ideally, this may help introduce the players to the idea of entities as embodiments of physical places.*
+
+___
+### Tali
+___
+*Talk to Hales about her thoughts, but I'm thinking this will be a vague memory from her deep past, or more likely a vision of something happening elsewhere, possibly as part of her mushroom exposure*
