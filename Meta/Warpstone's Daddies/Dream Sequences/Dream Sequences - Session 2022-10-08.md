@@ -31,4 +31,11 @@ As Poogey moves towards the light, a fog rolls in. After walking what feels like
 
 Poogey enters the cabin, to see himself, 5 years younger and unmeasurably more innocent than the Poogey of today, assisting his wife in the preparation of their supper stew.
 
-Poogey: 
+Avela: "Gertrudis, dear"
+
+### Essek
+April 5, 1993
+
+04051993
+4051993
+4,051,993
