@@ -27,7 +27,9 @@ Suddenly, he sees a dim orange glow burn from deep into the forest. *Does he mov
 
 As Poogey moves towards the light, a fog rolls in. After walking what feels like 50 feet or so, the fog ahead of him begins to clear and reveal a small wooden house, looking clearly out of place in the woods. He recognizes it immediately as his home, where he had settled with his wife shortly after their marriage, and almost three years after he was banished by his clan for studying "forbidden knowledge" of his clan's deepest histories. He could see two figures moving about the cabin. The door is slightly ajar.
 
-Suddenly, he finds himself inside. He remembers this home in it's every detail. The small fireplace they had on the southern wall, the modest collection of books he had gathered on his travels to [[Oakgrove]], their kitchen and dining space on the northern side of the house, and the modest loft where they slept above their small, but cozy, living space. His wife is busy busy over a stew, slow boiling on the wrought iron stove, while Poogey's younger self, 5 years ago and unmeasurably more innocent than the Poogey of today, sits at their dining table deep in study of a book.
+Suddenly, he finds himself inside. He remembers this home in it's every detail. The small fireplace they had on the southern wall, the modest collection of books he had gathered on his travels to [[Oakgrove]], their kitchen and dining space on the northern side of the house, and the modest loft where they slept above their small, but cozy, living space. His wife is busy busy over a stew, slow boiling on the wrought iron stove, while Poogey's younger self, Gertrudis, 6 years ago and unmeasurably more innocent than the Poogey of today, sits at their dining table deep in study of a book.
+
+Their life was, for the most part, a good one. Living around Jorvik but outside of the jurisdictions of the pirates and the nobility had it's perks, and they generally enjoyed the little community of Oakgrove. Gertrudis had been concerned of rumors of a growing sect of religious fanatics in the elf lands to the northeast, but hadn't paid these rumors any mind. How wrong he had been...
 
 The space should have been warm, comfortable, welcoming, and filled with the rich smell of the stew, made from the small garden they maintained. Instead, Poogey feels cold, smells nothing, and his heart contains nothing but the deepest, darkest sense of foreboding, and dread.
 
@@ -53,7 +55,9 @@ A loud, pounding knock on the door rings through the house. Gertrudis and Avela 
 
 *Ideas so far are: There's a Jorvik tax collector and his guards who have been breathing down on Poogey's neck for weeks. They forcibly enter in the house and start to search for all valuables. When they start searching through Poogey and his wife, a scuffle starts, and in the commotion Avela is killed*
 
-*Or: *
+*Or: Some kind of religious order, outside of the Jorvik jurisdiction, is searching for heretics and witches. They are deeply suspicious of Poogey's books. They get very aggressive towards his wife specifically because of her appearance as a tiefling of reddish skin, blacked eyes, and deep purple hair, and Poogey tries to defend her which gets her killed*
+
+*I'm not super satisfied with either of these because it feels like the murder happens so suddenly. Would rather happen it slowly. Maybe instead of her dying, they're taken by a religious order raiding the lands for "demons" and they simply got unlucky, and her death occurs further into the future. If I go with this, I'll need to add some buildup in the pre-dialog portion*
 
 The book itself has been lost to your memory in all but the last words you read:
 
