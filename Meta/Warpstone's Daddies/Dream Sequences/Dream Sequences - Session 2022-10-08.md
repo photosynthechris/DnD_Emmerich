@@ -25,4 +25,10 @@ Poogey awakens, heart pounding and with short breath, to see the party surroundi
 
 Suddenly, he sees a dim orange glow burn from deep into the forest. *Does he move towards the light?*
 
-As Poogey moves towards the light, a fog rolls in. After walking what feels like 50 feet or so, the fog ahead of him begins to clear and reveal a small wooden house, looking clearly out of place in the woods. He recognizes it immediately as his home, where he had settled with his wife shortly after their marriage, and almost three years after he was banished from the tiefling settlement [[]]
+As Poogey moves towards the light, a fog rolls in. After walking what feels like 50 feet or so, the fog ahead of him begins to clear and reveal a small wooden house, looking clearly out of place in the woods. He recognizes it immediately as his home, where he had settled with his wife shortly after their marriage, and almost three years after he was banished by his clan for studying "forbidden knowledge" of his clan's deepest histories. He could see two figures moving about the cabin. The door is slightly ajar. *Does he go inside?*
+
+#### IF YES:
+
+Poogey enters the cabin, to see himself, 5 years younger and unmeasurably more innocent than the Poogey of today, assisting his wife in the preparation of their supper stew.
+
+"Avela, could you "
