@@ -49,7 +49,11 @@ A loud, pounding knock on the door rings through the house. Gertrudis and Avela 
 
 **At this point we'll move into live rollplay a bit**
 
+*Notes for tomorrow when I finish this: I'm a bit lost at this point, I like this direction but I'm not sure what lies on the other side of the door. I like the idea of roleplaying this fight a bit. I'm just trying to find a way to get it so Avela is accidentally killed.*
 
+*Ideas so far are: There's a Jorvik tax collector and his guards who have been breathing down on Poogey's neck for weeks. They forcibly enter in the house and start to search for all valuables. When they start searching through Poogey and his wife, a scuffle starts, and in the commotion Avela is killed*
+
+*Or: *
 
 The book itself has been lost to your memory in all but the last words you read:
 
