@@ -13,7 +13,7 @@ At first, Grogg falls into a deep, dreamless sleep, as if carried along the wind
 >Fear not, my child, for one day yet
 >We'll return to the land of the orange sky
 >Where the heat of Tor is but a ghost
->And the light of Sol is dwindles in your eyes.
+>And the light of Sol dwindles in your eyes.
 >We'll return to where it all began.
 
 And her final breath drifts, like her soul, off into the great abyss, and Grogg once again slips into a deep, dreamless sleep.
@@ -35,7 +35,21 @@ Avela, your wife, calls to your younger self from the kitchen:
 
 Avela: "Gerty, dearest, no books on the table. Supper's ready. Come get yourself some stew."
 
-Poogey: "Ah yes darling, just a moment..."
+Gertrudis: "Ah yes darling, just a moment..."
+
+Clearly drifting off into the book again, Avela walks softly over to her husband, rubs his shoulders, and leans in, asking:
+
+Avela: "What is that you're reading anyway?"
+
+Gertrudis: "It's an odd book I picked up last time I travelled to Jorvik, bought it from one of the tradesmen in the harbor. Seems to be a legendary history of some ancient great land, but I can't connect it to any real history I know of. Must be an old myth *of some sort, at this point I doubt it's about any real place at all.*"
+
+**DM NOTE: remove italics when sending the above to Westen, and when westen reaches the point where the italics start interrupt and move onto next part.**
+
+A loud, pounding knock on the door rings through the house. Gertrudis and Avela look to the door surprised. Poogey feels immense dread and terror at what is about to happen.
+
+**At this point we'll move into live rollplay a bit**
+
+
 
 The book itself has been lost to your memory in all but the last words you read:
 
