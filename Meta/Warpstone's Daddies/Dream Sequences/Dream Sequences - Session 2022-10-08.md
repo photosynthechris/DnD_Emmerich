@@ -27,7 +27,11 @@ Suddenly, he sees a dim orange glow burn from deep into the forest. *Does he mov
 
 As Poogey moves towards the light, a fog rolls in. After walking what feels like 50 feet or so, the fog ahead of him begins to clear and reveal a small wooden house, looking clearly out of place in the woods. He recognizes it immediately as his home, where he had settled with his wife shortly after their marriage, and almost three years after he was banished by his clan for studying "forbidden knowledge" of his clan's deepest histories. He could see two figures moving about the cabin. The door is slightly ajar.
 
-Suddenly, he finds himself inside. He remembers this home in it's every detail. The small fireplace they had on the southern wall, surrounded with books collected on 
+Suddenly, he finds himself inside. He remembers this home in it's every detail. The small fireplace they had on the southern wall, the modest collection of books he had gathered on his travels to [[Oakgrove]], their kitchen and dining space on the northern side of the house, and the modest loft where they slept above their small, but cozy, living space. His wife is busy busy over a stew, slow boiling on the wrought iron stove, while Poogey's younger self, 5 years ago and unmeasurably more innocent than the Poogey of today, sits at their dining table deep in study of a book. The book itself has been lost to your memory in all but the last words you read:  The couple is clearly content, 
+
+The space should have been warm, comfortable, welcoming, and filled with the rich smell of the stew, made from the small garden they maintained. Instead, Poogey feels cold, smells nothing, and his heart contains nothing but the deepest, darkest sense of foreboding, and dread.
+
+Avela, his wife, calls suddenly 
 
 Poogey enters the cabin, to see himself, 5 years younger and unmeasurably more innocent than the Poogey of today, assisting his wife in the preparation of their supper stew.
 
