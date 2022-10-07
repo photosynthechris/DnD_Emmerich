@@ -27,19 +27,29 @@ Suddenly, he sees a dim orange glow burn from deep into the forest. *Does he mov
 
 As Poogey moves towards the light, a fog rolls in. After walking what feels like 50 feet or so, the fog ahead of him begins to clear and reveal a small wooden house, looking clearly out of place in the woods. He recognizes it immediately as his home, where he had settled with his wife shortly after their marriage, and almost three years after he was banished by his clan for studying "forbidden knowledge" of his clan's deepest histories. He could see two figures moving about the cabin. The door is slightly ajar.
 
-Suddenly, he finds himself inside. He remembers this home in it's every detail. The small fireplace they had on the southern wall, the modest collection of books he had gathered on his travels to [[Oakgrove]], their kitchen and dining space on the northern side of the house, and the modest loft where they slept above their small, but cozy, living space. His wife is busy busy over a stew, slow boiling on the wrought iron stove, while Poogey's younger self, 5 years ago and unmeasurably more innocent than the Poogey of today, sits at their dining table deep in study of a book. The book itself has been lost to your memory in all but the last words you read:
+Suddenly, he finds himself inside. He remembers this home in it's every detail. The small fireplace they had on the southern wall, the modest collection of books he had gathered on his travels to [[Oakgrove]], their kitchen and dining space on the northern side of the house, and the modest loft where they slept above their small, but cozy, living space. His wife is busy busy over a stew, slow boiling on the wrought iron stove, while Poogey's younger self, 5 years ago and unmeasurably more innocent than the Poogey of today, sits at their dining table deep in study of a book.
+
+The space should have been warm, comfortable, welcoming, and filled with the rich smell of the stew, made from the small garden they maintained. Instead, Poogey feels cold, smells nothing, and his heart contains nothing but the deepest, darkest sense of foreboding, and dread.
+
+Avela, your wife, calls to your younger self from the kitchen:
+
+Avela: "Dearest, no books on the table. Supper's ready. Come get yourself some stew."
+
+Poogey: "Ah yes darling, just a moment..."
+
+The book itself has been lost to your memory in all but the last words you read:
 
 >Your pride has deceived you
->you that live in the clefts of the rock,
+>you who think you live above the coming storm,
 >you say in your heart,
->"Who will bring me down to the ground?"
+>"Who could bring me down to the ground?"
 >Though you soar aloft like the eagle,
 >though your nest is set amongst the stars,
->from there I will bring you down.
+>from there *I* will bring you down.
 
 The couple is clearly content, 
 
-The space should have been warm, comfortable, welcoming, and filled with the rich smell of the stew, made from the small garden they maintained. Instead, Poogey feels cold, smells nothing, and his heart contains nothing but the deepest, darkest sense of foreboding, and dread.
+
 
 Avela, his wife, calls suddenly 
 
