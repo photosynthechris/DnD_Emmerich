@@ -33,7 +33,7 @@ The space should have been warm, comfortable, welcoming, and filled with the ric
 
 Avela, your wife, calls to your younger self from the kitchen:
 
-Avela: "Dearest, no books on the table. Supper's ready. Come get yourself some stew."
+Avela: "Gerty, dearest, no books on the table. Supper's ready. Come get yourself some stew."
 
 Poogey: "Ah yes darling, just a moment..."
 
