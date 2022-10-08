@@ -1,5 +1,11 @@
 # Dream Sequences
 ## For Session 2022-10-08
+
+Tali
+Kelda
+Grogg
+Poogey
+Essek
 ___
 ### Grogg
 ___
