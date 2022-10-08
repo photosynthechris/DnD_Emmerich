@@ -62,11 +62,11 @@ The elf speaks with a voice like a hammer hitting an anvil,
 
 And in that moment, Gertrudis looks up, and Poogey looks on, and sees the dagger now piercing his wife's heart, blood beginning to pour from her chest. What happens after is largely lost to him, all he remembers is the scream that escaped him as rage overtook him. And before he knew it, the three paladins collapsed to the floor dismembered and mutilated, and a great and sudden wind blowing through the house extinguishes every source of illumination, except for a deep purple glow emanating from within Gertrudis's chest. As the light fades, he runs and drops to his wife and attempts to use whatever little healing magic he knows on her, but to no avail. As she grows cold, and her breaths grow faint, she whispers some words to Gertrudis that he cannot hear. He leans closer, and Avela says:
 
-""
+"Don't blame yourself, I will always... love... you..."
 
-In the last moments of the dream, as the pain of it all starts to 
+In the last moments of the dream, as the pain of it all starts to overwhelm Poogey's senses, the book again comes to his mind. All other details have long been lost to his memory, except for the last few lines he had read:
 
-The book itself has been lost to your memory in all but the last words you read:
+*Have Westen read:*
 
 >Your pride has deceived you
 >you who think you live above the coming storm,
@@ -76,11 +76,18 @@ The book itself has been lost to your memory in all but the last words you read:
 >though your nest is set amongst the stars,
 >from there *I* will bring you down.
 
-
-
 ___
 ### Essek
 ___
+
+>What do you know of the world on which you live?
+>If you can hardly understand your own mind
+>your own past, your own life, that which is locked within.
+>Look up, Essek, look up towards the stars,
+>distant suns, unknown and forgotten worlds,
+>can't you see how wrong they are?
+>
+
 *It'll need to include the vision they got from the lunar shrine, but I'm not sure what that'll be yet, and if that'll connect to his past. If it does, it'll include some representation of the number below.*
 
 %% April 5 1993 %%
