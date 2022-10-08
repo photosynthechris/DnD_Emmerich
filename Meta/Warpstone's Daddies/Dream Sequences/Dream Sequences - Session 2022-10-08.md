@@ -102,7 +102,11 @@ ___
 ### Kelda
 ___
 
-Kelda slowly drifts into awareness, gently rustling leaves, bubbling streams, the soft incessant call of frogs, crickets, cicadas, and 
+Kelda slowly drifts into awareness, gently rustling leaves, bubbling streams, the soft incessant call of frogs, crickets, cicadas, the sounds of the sleeping jungle gently drifting on the wind. She becomes aware of the shape of the jungle, it's extents over the land, the way the trees pebble across the landscape. She can feel the jungle's infinitely complex root system buzzing with activity, 100 billion trees communing, contemplating, conversing, dreaming.
+
+Suddenly, she is aware of a presence, an awareness in the buzz of thought, slowly forming from uncountable numbers of mycelial and biological reactions. It's a presence Kelda knows well.
+
+In her dreams, the forest slowly coalesces into 
 
 *This will include a commune with the forest spirit, the embodiment of the lustrine swamps. Ideally, this may help introduce the players to the idea of entities as embodiments of physical places.*
 
