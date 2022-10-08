@@ -102,7 +102,7 @@ ___
 ### Kelda
 ___
 
-
+Kelda slowly drifts into awareness, gently rustling leaves, bubbling streams, the soft incessant call of frogs, crickets, cicadas, and 
 
 *This will include a commune with the forest spirit, the embodiment of the lustrine swamps. Ideally, this may help introduce the players to the idea of entities as embodiments of physical places.*
 
