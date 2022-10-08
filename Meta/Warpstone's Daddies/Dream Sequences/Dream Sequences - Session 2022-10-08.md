@@ -101,6 +101,9 @@ Essek becomes aware of a brilliantly soft silvery light. He opens his eyes to se
 ___
 ### Kelda
 ___
+
+
+
 *This will include a commune with the forest spirit, the embodiment of the lustrine swamps. Ideally, this may help introduce the players to the idea of entities as embodiments of physical places.*
 
 ___
