@@ -29,7 +29,8 @@ As Poogey moves towards the light, a fog rolls in. After walking what feels like
 
 Suddenly, he finds himself inside. He remembers this home in it's every detail. The small fireplace they had on the southern wall, the modest collection of books he had gathered on his travels to [[Oakgrove]], their kitchen and dining space on the northern side of the house, and the modest loft where they slept above their small, but cozy, living space. His wife is busy busy over a stew, slow boiling on the wrought iron stove, while Poogey's younger self, Gertrudis, 6 years ago and unmeasurably more innocent than the Poogey of today, sits at their dining table deep in study of a book.
 
-Their life was, for the most part, a good one. Living around Jorvik but outside of the jurisdictions of the pirates and the nobility had it's perks, and they generally enjoyed the little community of Oakgrove. Gertrudis had been concerned of rumors of a growing sect of (*aasimar and high elf*) religious fanatics in the elf lands to the northeast, but hadn't paid these rumors any mind. How wrong he had been...
+Their life was, for the most part, a good one. Living around Jorvik but outside of the jurisdictions of the pirates and the nobility had it's perks, and they generally enjoyed the little community of Oakgrove. It had 
+Gertrudis had been concerned of rumors of a growing sect of (*aasimar and high elf*) religious fanatics in the elf lands to the northeast, but hadn't paid these rumors any mind. How wrong he had been...
 
 The space should have been warm, comfortable, welcoming, and filled with the rich smell of the stew, made from the small garden they maintained. Instead, Poogey feels cold, smells nothing, and his heart contains nothing but the deepest, darkest sense of foreboding, and dread.
 
@@ -47,11 +48,12 @@ Gertrudis: "It's an odd book I picked up last time I travelled to Jorvik, bought
 
 **DM NOTE: remove italics when sending the above to Westen, and when westen reaches the point where the italics start interrupt and move onto next part.**
 
-A loud, pounding knock on the door rings through the house. Gertrudis and Avela look to the door surprised. Poogey feels immense dread and terror at what is about to happen.
+A loud, pounding knock on the door rings through the house. Gertrudis and Avela look to the door surprised. Poogey feels immense dread and terror as he experiences, once again, what is about to happen...
 
 **At this point we'll move into live roleplay a bit**
+*For gameplay, at this point Westen will play Gertrudis, his past self, while Poogey, his current self, watches frozen.*
 
-
+The pounding continues incessantly as Gertrudis rises to answer it. He hastily opens the door to see an imposing high elf of great height, glaring down at him with a glare like hot daggers. He is dressed in well made but plain white robes, tightly buttoned around his neck, and surrounded at his left and right by two armored figures, faces obscured by closed face shields.
 
 *Notes for tomorrow when I finish this: I'm a bit lost at this point, I like this direction but I'm not sure what lies on the other side of the door. I like the idea of roleplaying this fight a bit. I'm just trying to find a way to get it so Avela is accidentally killed.*
 
