@@ -88,6 +88,8 @@ ___
 >can't you see how wrong they are?
 >Where is tranquility, serenity, crisis or storms,
 >Tycho, Plato, Imbrium, or Copernicus?
+>You are a being long lost, cast out from their homeland,
+>will you ever find your way back if you cannot remember?
 >
 
 *It'll need to include the vision they got from the lunar shrine, but I'm not sure what that'll be yet, and if that'll connect to his past. If it does, it'll include some representation of the number below.*
