@@ -86,6 +86,8 @@ ___
 >Look up, Essek, look up towards the stars,
 >distant suns, unknown and forgotten worlds,
 >can't you see how wrong they are?
+>Where is tranquility, serenity, crisis or storms,
+>Tycho, Plato, Imbrium, or Copernicus?
 >
 
 *It'll need to include the vision they got from the lunar shrine, but I'm not sure what that'll be yet, and if that'll connect to his past. If it does, it'll include some representation of the number below.*
