@@ -111,12 +111,21 @@ The forest begins to rise from it's roots almost like a great velvet robe on the
 >Sweetest Kelda, dearest Kelda, my darling little hobbit
 >There are things unspoken, happenings forgotten,
 >That you must know.
->
+>There is a town that has lost it's soul,
+>it's people are tired, it's heart is fading.
+>The blight which threatens to rot out it's spirit
+>may yet spread and consume the whole swamps.
+>You must excise this cancer from us, from our home,
+>before the rot truly takes hold.
+>Seek out Cerulian Nix.
+>And be safe, my child, and fear not.
+>For as long as you are within me, you are never
+>without me.
 
 ___
 ### Tali
 ___
 
-
+Tali opens her eyes and sees a room, dark and dank, walls dripping with darkened water 
 
 *Talk to Hales about her thoughts, but I'm thinking this will be a vague memory from her deep past, or more likely a vision of something happening elsewhere, possibly as part of her mushroom exposure*
