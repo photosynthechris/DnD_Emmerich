@@ -80,7 +80,7 @@ ___
 ### Essek
 ___
 
-Essek becomes aware
+Essek becomes aware of a brilliantly soft silvery light. He opens his eyes to see a smooth white sphere, the whole moon, silhouetted by a female figure with long, nebulous hair, arms outstretched, dress flowing gently in the wind. He cannot see her face, nor can he move. She begins to speak, but not by voice. Essek perceives her as saying:
 
 >What do you know of the world on which you live?
 >If you can hardly understand your own mind
@@ -96,10 +96,7 @@ Essek becomes aware
 >And you must not forget, never forget, that from which you came.
 >4 0 5 1 9 9 3
 
-*It'll need to include the vision they got from the lunar shrine, but I'm not sure what that'll be yet, and if that'll connect to his past. If it does, it'll include some representation of the number below.*
-
 %% April 5 1993 %%
-4,051,993
 
 ___
 ### Kelda
