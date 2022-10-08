@@ -54,6 +54,10 @@ A loud, pounding knock on the door rings through the house. Gertrudis and Avela 
 
 The pounding continues incessantly as Gertrudis rises to answer it. He hastily opens the door to see an imposing high elf of great height, glaring down at him with a glare like hot daggers. He is dressed in well made but plain white robes, tightly buttoned around his neck, and surrounded at his left and right by two armored figures, faces obscured by closed face shields.
 
+The elf speaks with a voice like a hammer hitting an anvil,
+
+"Gertrudis Kral of the demon clan Kouzelnik, you are hereby under arrest for the crime of kidnapping, grave insult of a noble family, desertion of your parole, heresy, and betrayal to the state. You will be escorted to Phonetix where, by rite of the Great Pillars and with the gods and your victims as witness, you will be put to death by method of immolation."
+
 *Notes for tomorrow when I finish this: I'm a bit lost at this point, I like this direction but I'm not sure what lies on the other side of the door. I like the idea of roleplaying this fight a bit. I'm just trying to find a way to get it so Avela is accidentally killed.*
 
 *Ideas so far are: There's a Jorvik tax collector and his guards who have been breathing down on Poogey's neck for weeks. They forcibly enter in the house and start to search for all valuables. When they start searching through Poogey and his wife, a scuffle starts, and in the commotion Avela is killed*
