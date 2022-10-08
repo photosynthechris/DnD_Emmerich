@@ -60,7 +60,9 @@ The elf speaks with a voice like a hammer hitting an anvil,
 
 *Then a fight sequence begins, which eventually will end in the accidental death of Poogey's wife, whatever happens after is up to Westen, he could be captured, he could escape, but the dream will end shortly after.*
 
-And in that moment, Gertrudis looks up, and Poogey looks on, and sees the dagger now piercing his wife's heart, blood beginning to pour from her chest. 
+And in that moment, Gertrudis looks up, and Poogey looks on, and sees the dagger now piercing his wife's heart, blood beginning to pour from her chest. What happens after is largely lost to him, all he remembers is the scream that escaped him as rage overtook him. And before he knew it, the three paladins collapsed to the floor dismembered and mutilated, and a great and sudden wind blowing through the house extinguishes every source of illumination, except for a deep purple glow emanating from within Gertrudis's chest. As the light fades, he runs and drops to his wife and attempts to use whatever little healing magic he knows on her, but to no avail. As she grows cold, and her breaths grow faint, she whispers some words to Gertrudis that he cannot hear. He leans closer, and Avela says:
+
+""
 
 In the last moments of the dream, as the pain of it all starts to 
 
