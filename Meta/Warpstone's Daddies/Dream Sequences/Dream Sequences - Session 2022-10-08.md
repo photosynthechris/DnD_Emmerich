@@ -80,7 +80,7 @@ ___
 ### Essek
 ___
 
-
+Essek becomes aware
 
 >What do you know of the world on which you live?
 >If you can hardly understand your own mind
