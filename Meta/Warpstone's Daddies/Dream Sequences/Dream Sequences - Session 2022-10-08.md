@@ -80,6 +80,8 @@ ___
 ### Essek
 ___
 
+
+
 >What do you know of the world on which you live?
 >If you can hardly understand your own mind
 >your own past, your own life, that which is locked within.
@@ -90,7 +92,9 @@ ___
 >Tycho, Plato, Imbrium, or Copernicus?
 >You are a being long lost, cast out from their homeland,
 >will you ever find your way back if you cannot remember?
->
+>You must find your way, find your way back into the whole moon's light
+>And you must not forget, never forget, that from which you came.
+>4 0 5 1 9 9 3
 
 *It'll need to include the vision they got from the lunar shrine, but I'm not sure what that'll be yet, and if that'll connect to his past. If it does, it'll include some representation of the number below.*
 
