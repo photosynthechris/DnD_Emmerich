@@ -106,7 +106,7 @@ Kelda slowly drifts into awareness, gently rustling leaves, bubbling streams, th
 
 Suddenly, she is aware of a presence, an awareness in the buzz of thought, slowly forming from uncountable numbers of mycelial and biological reactions. It's a presence Kelda knows well.
 
-In her dreams, the forest slowly coalesces into 
+The forest begins to rise from it's roots almost like a great velvet robe on the back of a sleeping giant. Trees, lakes, rivers, and swamps all flow from the figure as it rises, comes to it's feet, 
 
 *This will include a commune with the forest spirit, the embodiment of the lustrine swamps. Ideally, this may help introduce the players to the idea of entities as embodiments of physical places.*
 
