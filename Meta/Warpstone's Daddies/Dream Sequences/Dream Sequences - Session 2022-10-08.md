@@ -37,7 +37,7 @@ Avela, your wife, calls to your younger self from the kitchen:
 
 Avela: "Gerty, dearest, no books on the table. Supper's ready. Come get yourself some stew."
 
-Gertrudis: "Ah yes darling, just a moment..."
+Gertrudis: "Ah, just a moment Poogey..."
 
 Clearly drifting off into the book again, Avela walks softly over to her husband, rubs his shoulders, and leans in, asking:
 
@@ -49,7 +49,9 @@ Gertrudis: "It's an odd book I picked up last time I travelled to Jorvik, bought
 
 A loud, pounding knock on the door rings through the house. Gertrudis and Avela look to the door surprised. Poogey feels immense dread and terror at what is about to happen.
 
-**At this point we'll move into live rollplay a bit**
+**At this point we'll move into live roleplay a bit**
+
+
 
 *Notes for tomorrow when I finish this: I'm a bit lost at this point, I like this direction but I'm not sure what lies on the other side of the door. I like the idea of roleplaying this fight a bit. I'm just trying to find a way to get it so Avela is accidentally killed.*
 
