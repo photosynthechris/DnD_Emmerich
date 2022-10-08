@@ -126,6 +126,16 @@ ___
 ### Tali
 ___
 
-Tali opens her eyes and sees a room, dark and dank, walls dripping with darkened water 
+Tali opens her eyes and sees a room, dark and dank, walls dripping with darkened water or some other black-ish liquid. Three silhoutted figures stand over a dirtied figure, curled on the floor.
+
+Two of the figures are bulky, and hunched, clearly an orc or similar creature. But one is a tall and lean elvish figure, though his face is obscured.
+
+The tall figure says, "You can continue this hunger strike as long as you wish, we will not release you until you detail to us the resistance's plans."
+
+One of the bulky figures grabs a clamp of some kind from a chest, placed on a table near the door. The other approaches the curled humanoid, drags him to his feet, revealing an emaciated human that Tali does not recognize. The figure brings the clamp to one of the man's fingers and tightens the clamp, holding the man's hand through the slight struggle he makes. The man screams as the clamp tightens down.
+
+The tall figure demands, "What. are. their. plans?? Why was the laboratory raided? How was the entrance hidden? Was anything taken? Tell me!!!"
+
+As the man slips from conciousness, and Tali's view fades, the man says, "You... can't stop... the storm..."
 
 *Talk to Hales about her thoughts, but I'm thinking this will be a vague memory from her deep past, or more likely a vision of something happening elsewhere, possibly as part of her mushroom exposure*
