@@ -109,6 +109,8 @@ Suddenly, she is aware of a presence, an awareness in the buzz of thought, slowl
 The forest begins to rise from it's roots almost like a great velvet robe on the back of a sleeping giant. Trees, lakes, rivers, and swamps all flow from the figure as it rises, comes to it's feet, and sits upon the [[Grouschold Range]] like one would sit upon a stool. It speaks to Kelda, with a voice soft and sweet.
 
 >Sweetest Kelda, dearest Kelda, my darling little hobbit
+>There are things unspoken, happenings forgotten,
+>That you must know.
 >
 
 ___
