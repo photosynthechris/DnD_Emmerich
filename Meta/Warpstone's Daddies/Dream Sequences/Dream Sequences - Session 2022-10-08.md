@@ -109,4 +109,7 @@ ___
 ___
 ### Tali
 ___
+
+
+
 *Talk to Hales about her thoughts, but I'm thinking this will be a vague memory from her deep past, or more likely a vision of something happening elsewhere, possibly as part of her mushroom exposure*
