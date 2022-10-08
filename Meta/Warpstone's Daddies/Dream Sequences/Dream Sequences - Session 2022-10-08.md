@@ -58,13 +58,7 @@ The elf speaks with a voice like a hammer hitting an anvil,
 
 "Gertrudis Kral of the demon clan Kouzelnik, you are hereby under arrest for the crime of kidnapping, grave insult of a noble family, desertion of your parole, heresy, and betrayal to the state. You will be escorted to Phonetix where, by rite of the Great Pillars and with the gods and your victims as witness, you will be put to death by method of immolation."
 
-*Notes for tomorrow when I finish this: I'm a bit lost at this point, I like this direction but I'm not sure what lies on the other side of the door. I like the idea of roleplaying this fight a bit. I'm just trying to find a way to get it so Avela is accidentally killed.*
-
-*Ideas so far are: There's a Jorvik tax collector and his guards who have been breathing down on Poogey's neck for weeks. They forcibly enter in the house and start to search for all valuables. When they start searching through Poogey and his wife, a scuffle starts, and in the commotion Avela is killed*
-
-*Or: Some kind of religious order, outside of the Jorvik jurisdiction, is searching for heretics and witches. They are deeply suspicious of Poogey's books. They get very aggressive towards his wife specifically because of her appearance as a tiefling of reddish skin, blacked eyes, and deep purple hair, and Poogey tries to defend her which gets her killed*
-
-*I'm not super satisfied with either of these because it feels like the murder happens so suddenly. Would rather happen it slowly. Maybe instead of her dying, they're taken by a religious order raiding the lands for "demons" and they simply got unlucky, and her death occurs further into the future. If I go with this, I'll need to add some buildup in the pre-dialog portion*
+*Then a fight sequence begins, which eventually will end in the accidental death of Poogey's wife, whatever happens after is up to Westen, he could be captured, he could escape, but the dream will end shortly after.*
 
 The book itself has been lost to your memory in all but the last words you read:
 
