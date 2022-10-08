@@ -60,6 +60,10 @@ The elf speaks with a voice like a hammer hitting an anvil,
 
 *Then a fight sequence begins, which eventually will end in the accidental death of Poogey's wife, whatever happens after is up to Westen, he could be captured, he could escape, but the dream will end shortly after.*
 
+And in that moment, Gertrudis looks up, and Poogey looks on, and sees the dagger now piercing his wife's heart, blood beginning to pour from her chest. 
+
+In the last moments of the dream, as the pain of it all starts to 
+
 The book itself has been lost to your memory in all but the last words you read:
 
 >Your pride has deceived you
@@ -70,17 +74,7 @@ The book itself has been lost to your memory in all but the last words you read:
 >though your nest is set amongst the stars,
 >from there *I* will bring you down.
 
-The couple is clearly content, 
 
-
-
-Avela, his wife, calls suddenly 
-
-Poogey enters the cabin, to see himself, 5 years younger and unmeasurably more innocent than the Poogey of today, assisting his wife in the preparation of their supper stew.
-
-Avela: "Gertrudis, dear, you've been slaving over that book for hours now, you're going to strain your eyes. Come have some stew, would you?"
-
-Poogey: "I'll be that way in just a second Avela, I've got just "
 
 ___
 ### Essek
