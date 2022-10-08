@@ -104,11 +104,12 @@ ___
 
 Kelda slowly drifts into awareness, gently rustling leaves, bubbling streams, the soft incessant call of frogs, crickets, cicadas, the sounds of the sleeping jungle gently drifting on the wind. She becomes aware of the shape of the jungle, it's extents over the land, the way the trees pebble across the landscape. She can feel the jungle's infinitely complex root system buzzing with activity, 100 billion trees communing, contemplating, conversing, dreaming.
 
-Suddenly, she is aware of a presence, an awareness in the buzz of thought, slowly forming from uncountable numbers of mycelial and biological reactions. It's a presence Kelda knows well.
+Suddenly, she is aware of a presence, an awareness in the buzz of thought, slowly forming from uncountable numbers of mycelial and biological reactions. It's a presence Kelda knows well: the Lady Lustrine, spirit of the swamp, protector of the jungles, entity of the trees.
 
-The forest begins to rise from it's roots almost like a great velvet robe on the back of a sleeping giant. Trees, lakes, rivers, and swamps all flow from the figure as it rises, comes to it's feet, and sits upon the [[Grouschold Range]] like one would sit upon a stool. It speaks to Kelda, with a
+The forest begins to rise from it's roots almost like a great velvet robe on the back of a sleeping giant. Trees, lakes, rivers, and swamps all flow from the figure as it rises, comes to it's feet, and sits upon the [[Grouschold Range]] like one would sit upon a stool. It speaks to Kelda, with a voice soft and sweet.
 
-*This will include a commune with the forest spirit, the embodiment of the lustrine swamps. Ideally, this may help introduce the players to the idea of entities as embodiments of physical places.*
+>Sweetest Kelda, dearest Kelda, my darling little hobbit
+>
 
 ___
 ### Tali
