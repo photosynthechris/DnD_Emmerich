@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "79db6cb67093be65",
+        "id": "252373de92677a8e",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -146,17 +146,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "79db6cb67093be65",
+  "active": "252373de92677a8e",
   "lastOpenFiles": [
-    "Meta/Warpstone's Daddies/Player Brainstorms/Westion Questions.md",
+    "Meta/Warpstone's Daddies/Dream Sequences/Fellius Rex.md",
     "Meta/Warpstone's Daddies/Dream Sequences/Dream Sequences - Session 2022-10-08.md",
+    "Meta/Warpstone's Daddies/Player Brainstorms/Westion Questions.md",
     "events/timeline/9th era/9th Era.md",
     "events/timeline/9th era/organization racial drow.md",
     "locations/Lunumbra/Tor/Emmerich/High Plains/Lustrine Swamps/Mont de Pierre/Mont de Pierre.md",
     "locations/Council of Existence.md",
     "locations/Lunumbra/Lunumbra (Location).md",
     "locations/Lunumbra/Tor/Emmerich/Skyway River.md",
-    "locations/Lunumbra/Tor/Emmerich/Intercontinental Highway of Emmerich.md",
-    "locations/Lunumbra/Tor/Emmerich/Grouschold Range.md"
+    "locations/Lunumbra/Tor/Emmerich/Intercontinental Highway of Emmerich.md"
   ]
 }

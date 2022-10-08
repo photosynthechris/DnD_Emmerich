@@ -29,8 +29,7 @@ As Poogey moves towards the light, a fog rolls in. After walking what feels like
 
 Suddenly, he finds himself inside. He remembers this home in it's every detail. The small fireplace they had on the southern wall, the modest collection of books he had gathered on his travels to [[Oakgrove]], their kitchen and dining space on the northern side of the house, and the modest loft where they slept above their small, but cozy, living space. His wife is busy busy over a stew, slow boiling on the wrought iron stove, while Poogey's younger self, Gertrudis, 6 years ago and unmeasurably more innocent than the Poogey of today, sits at their dining table deep in study of a book.
 
-Their life was, for the most part, a good one. Living around Jorvik but outside of the jurisdictions of the pirates and the nobility had it's perks, and they generally enjoyed the little community of Oakgrove. It had 
-Gertrudis had been concerned of rumors of a growing sect of (*aasimar and high elf*) religious fanatics in the elf lands to the northeast, but hadn't paid these rumors any mind. How wrong he had been...
+Their life was, for the most part, a good one. Living around [[Jorvik]] but outside of the jurisdictions of the pirates and the nobility had it's perks, and they generally enjoyed the little community of [[Oakgrove]]. It had been a fine, secluded place to settle after their marriage. Due to the nature of their union (after all, who could ever see a tiefling and a high elf wed, let alone the daughter of the [[Fellius Rex|head]] of the [[Phonecian Guard]]), the couple had spent much of their young marriage running and hiding from the elvish patrols from [[Phonecia|Avela's homeland]]. 
 
 The space should have been warm, comfortable, welcoming, and filled with the rich smell of the stew, made from the small garden they maintained. Instead, Poogey feels cold, smells nothing, and his heart contains nothing but the deepest, darkest sense of foreboding, and dread.
 
