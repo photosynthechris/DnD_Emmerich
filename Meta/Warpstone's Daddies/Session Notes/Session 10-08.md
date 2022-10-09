@@ -43,9 +43,9 @@ tali - 6
 poogey - 20
 grogg - 3
 bc - 11
-b1 - 5
+b1 - 0
 b2 - 15
-b3 - 5
+b3 - 0
 b4 - 18
 
 e
