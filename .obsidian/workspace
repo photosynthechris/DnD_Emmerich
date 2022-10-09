@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Meta/Warpstone's Daddies/Dream Sequences/Dream Sequences - Session 2022-10-08.md",
+            "file": "Meta/Warpstone's Daddies/Session Notes/Session 10-08.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meta/Warpstone's Daddies/Dream Sequences/Dream Sequences - Session 2022-10-08.md",
+                "file": "Meta/Warpstone's Daddies/Session Notes/Session 10-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Meta/Warpstone's Daddies/Dream Sequences/Dream Sequences - Session 2022-10-08.md",
+                "file": "Meta/Warpstone's Daddies/Session Notes/Session 10-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Meta/Warpstone's Daddies/Dream Sequences/Dream Sequences - Session 2022-10-08.md"
+                "file": "Meta/Warpstone's Daddies/Session Notes/Session 10-08.md"
               }
             }
           },
@@ -147,15 +147,15 @@
   },
   "active": "252373de92677a8e",
   "lastOpenFiles": [
+    "Meta/Tag Guidance.md",
+    "Meta/Warpstone's Daddies/Dream Sequences/Dream Sequences - Session 2022-10-08.md",
     "Meta/Warpstone's Daddies/Session Notes/Session 9-28.md",
     "Meta/Warpstone's Daddies/Session Notes/Session 9-25.md",
-    "Meta/Warpstone's Daddies/Dream Sequences/Dream Sequences - Session 2022-10-08.md",
     "Meta/Warpstone's Daddies/Session Notes/Session 10-08.md",
     "entities/Characters/Kadek Warpstone.md",
     "entities/Characters/Fuc Sloidszoig.md",
     "entities/Characters/Alric Winstell.md",
     "Meta/Warpstone's Daddies/Dream Sequences/Fellius Rex.md",
-    "Meta/Warpstone's Daddies/Player Brainstorms/Westion Questions.md",
-    "events/timeline/9th era/9th Era.md"
+    "Meta/Warpstone's Daddies/Player Brainstorms/Westion Questions.md"
   ]
 }

@@ -22,3 +22,6 @@ Town is mostly human, and slightly suspicious of other races beyond dwarves and 
 
 Everyone in town has lost spirit, felt very fatigued as of late. Much lifestock has disappeared and crops are dying, and a mysterious blight is spreading through some of the forest.
 
+In it notes:
+
+Poogey walks away
