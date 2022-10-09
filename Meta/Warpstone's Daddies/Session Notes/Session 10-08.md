@@ -64,3 +64,7 @@ brotsnart
 blight on some crops, night watchman that looks very tired, lantern pole and dark pointy hat and robe
 
 talk to horse, he sees people getting more tired, his master is paladin woman with green robe and armor and greatsword
+
+chris has blighted corn and wheat
+
+Rupert the Horse
