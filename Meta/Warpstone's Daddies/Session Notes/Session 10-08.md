@@ -54,3 +54,5 @@ k
 t
 b3
 g
+
+"sphere" on a ruined not
