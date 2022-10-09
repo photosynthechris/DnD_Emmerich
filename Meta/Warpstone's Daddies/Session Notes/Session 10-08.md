@@ -34,7 +34,7 @@ Tali, Grogg, Kelda, Essek all converge on Poogey
 bc - 27
 b1 - 0
 b2 - 0
-b3 - 12
+b3 - 6
 b4 - 0
 
 essek - 22
