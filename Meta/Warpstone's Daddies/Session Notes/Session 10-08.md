@@ -25,3 +25,7 @@ Everyone in town has lost spirit, felt very fatigued as of late. Much lifestock 
 In it notes:
 
 Poogey walks away
+
+Familiar cast, Benjamin
+
+Tali, Grogg, Kelda, Essek all converge on Poogey
