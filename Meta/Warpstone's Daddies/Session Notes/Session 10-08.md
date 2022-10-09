@@ -31,7 +31,7 @@ Familiar cast, Benjamin
 Tali, Grogg, Kelda, Essek all converge on Poogey
 
 
-bc - 27
+bc - 4
 b1 - 0
 b2 - 0
 b3 - 6
