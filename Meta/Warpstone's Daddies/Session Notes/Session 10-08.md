@@ -50,11 +50,8 @@ b4 - 18
 
 e
 p
-b4
-b2
 k
 bc
 t
-b1
 b3
 g
