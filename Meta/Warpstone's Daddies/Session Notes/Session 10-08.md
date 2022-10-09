@@ -68,3 +68,5 @@ talk to horse, he sees people getting more tired, his master is paladin woman wi
 chris has blighted corn and wheat
 
 Rupert the Horse
+
+Enter the inn, open the door, what happens inside is up for next time!
