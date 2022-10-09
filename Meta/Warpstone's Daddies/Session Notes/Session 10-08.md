@@ -58,3 +58,7 @@ g
 "sphere" on a ruined not
 
 comes across a nice village
+
+brotsnart
+
+blight on some crops, night watchman that looks very tired, lantern pole and dark pointy hat and robe
