@@ -56,3 +56,5 @@ b3
 g
 
 "sphere" on a ruined not
+
+comes across a nice village
