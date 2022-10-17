@@ -13,24 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meta/Warpstone's Daddies/Session Notes/Session 10-08.md",
+                "file": "Meta/Warpstone's Daddies/Session Notes/Session 10-16.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1118f3e083421436",
+            "id": "61814d8d96966901",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.0.0"
+                "file": "Meta/Warpstone's Daddies/Session Notes/Session 10-16.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3504aac46e988740",
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meta/Warpstone's Daddies/Session Notes/Session 10-08.md",
+                "file": "Meta/Warpstone's Daddies/Session Notes/Session 10-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Meta/Warpstone's Daddies/Session Notes/Session 10-08.md",
+                "file": "Meta/Warpstone's Daddies/Session Notes/Session 10-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Meta/Warpstone's Daddies/Session Notes/Session 10-08.md"
+                "file": "Meta/Warpstone's Daddies/Session Notes/Session 10-16.md"
               }
             }
           },
@@ -162,23 +162,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "1118f3e083421436",
+  "active": "252373de92677a8e",
   "lastOpenFiles": [
-    "Meta/Warpstone's Daddies/Dream Sequences/Dream Sequences - Session 2022-10-08.md",
     "Meta/Warpstone's Daddies/Session Notes/Session 10-08.md",
+    "Meta/Warpstone's Daddies/Session Notes/Session 10-16.md",
+    "Meta/Warpstone's Daddies/Dream Sequences/Dream Sequences - Session 2022-10-08.md",
     "Meta/Tag Guidance.md",
     "Meta/Warpstone's Daddies/Session Notes/Session 9-28.md",
     "Meta/Warpstone's Daddies/Session Notes/Session 9-25.md",
     "entities/Characters/Kadek Warpstone.md",
     "entities/Characters/Fuc Sloidszoig.md",
     "entities/Characters/Alric Winstell.md",
-    "Meta/Warpstone's Daddies/Dream Sequences/Fellius Rex.md",
-    "Meta/Warpstone's Daddies/Player Brainstorms/Westion Questions.md"
+    "Meta/Warpstone's Daddies/Dream Sequences/Fellius Rex.md"
   ]
 }
