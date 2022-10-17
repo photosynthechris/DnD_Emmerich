@@ -4,4 +4,4 @@ the night sky is interesting, there are patterns there, without even trying, you
 
 person laying in bed, dead eyed stare, at scroll
 
-person eats scroll
+person eats scroll, swallows half
