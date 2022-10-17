@@ -14,3 +14,7 @@ night watchman
 chris makes a 10 foot chartreause dome
 
 poogey apologizes to essek, they make up, poogey shares details
+
+book: rodmon, wizard of the 7 cities, protector of the continent, hero of the 5th age
+
+"what do you want?""
