@@ -6,4 +6,11 @@ person laying in bed, dead eyed stare, at scroll
 
 person eats scroll, swallows half
 
+martha
+fred
+dentist
+night watchman
+
 chris makes a 10 foot chartreause dome
+
+poogey apologizes to essek, they make up, poogey shares details
