@@ -20,16 +20,6 @@
             }
           },
           {
-            "id": "b852c8f15771f887",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.0.3"
-              }
-            }
-          },
-          {
             "id": "61814d8d96966901",
             "type": "leaf",
             "state": {
@@ -41,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -175,7 +164,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "b852c8f15771f887",
+  "active": "252373de92677a8e",
   "lastOpenFiles": [
     "Meta/Warpstone's Daddies/Session Notes/Session 9-25.md",
     "Meta/Warpstone's Daddies/Session Notes/Session 9-28.md",
