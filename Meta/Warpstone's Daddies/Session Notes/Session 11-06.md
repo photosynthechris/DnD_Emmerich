@@ -9,3 +9,5 @@ As for the book (rodmon, wizard of the 7 cities, protector of the continent, her
 westen has the power to change things
 
 rodmon wants the party to deliever him to the capital
+
+437
