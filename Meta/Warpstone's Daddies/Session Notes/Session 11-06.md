@@ -4,3 +4,6 @@ As for the book (rodmon, wizard of the 7 cities, protector of the continent, her
 
 - He is only vaguely aware that he is a book and not, in fact, a person. Explaining this to him fades from his memory extremely quickly, though other newly formed memories do not seem to.
 - He seems to remember a very heroic accounting of what he did in his life (almost as if he's just )
+
+---
+westen has the power to change things
