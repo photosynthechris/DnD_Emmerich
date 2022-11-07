@@ -11,3 +11,5 @@ westen has the power to change things
 rodmon wants the party to deliever him to the capital
 
 437
+
+Fight with leader person
