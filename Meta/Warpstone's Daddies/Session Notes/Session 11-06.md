@@ -14,7 +14,7 @@ rodmon wants the party to deliever him to the capital
 
 Fight with leader person
 
-spider 1: 26
+spider 1: 5
 spider 2: 20
 
 attack roll or saving through minus -1d4
@@ -27,10 +27,10 @@ grog: 15
 s1: 5
 s2: 21
 
-essek:
-sb:
-grog:
-poogey:
+essek: 1
+sb: 1
+grog: 1
+poogey: 1
 kelda:
 ss:
 tali:
