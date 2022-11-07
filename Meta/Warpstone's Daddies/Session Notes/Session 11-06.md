@@ -53,7 +53,7 @@ z3: 1
 z4: 8
 
 Kelda
-Z1* 16
+Z1* 15
 Essek
 Z2 22
 Z4 22
