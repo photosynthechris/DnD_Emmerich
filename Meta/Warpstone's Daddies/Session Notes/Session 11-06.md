@@ -34,3 +34,5 @@ poogey: 1
 kelda:
 ss:
 tali:
+
+Do not kill the spiders, and they dump 7000 copper
