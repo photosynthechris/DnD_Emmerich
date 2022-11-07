@@ -63,3 +63,7 @@ Z3 16
 
 36-18
 6
+
+HAL friend going with the party
+
+Gonna have to
