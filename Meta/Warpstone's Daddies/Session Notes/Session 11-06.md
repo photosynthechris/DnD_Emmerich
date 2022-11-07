@@ -81,3 +81,5 @@ I'll also need to figure out some NPC templates, it'll be much easier for me if 
 We'll just put all skills for all characters at maximum, and put them on neutral backgrounds. Background shouldn't really effect anything displayed so I don't think that's important. Everything that's displayed can be effected in the character creator.
 
 We'll need to make gene templates too for the different races. Certain monsters will need to be gene templates too, mainly the humanoid ones.
+
+If I go really crazy with it I might look into in the longer term seeing if I could easily mod in some dev tools, like adjusting how many ticks are in a day or testing if no ecology turns off 
