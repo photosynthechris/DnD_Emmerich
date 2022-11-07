@@ -66,4 +66,12 @@ Z3 16
 
 HAL friend going with the party
 
-Gonna have to
+Notes for next time:
+
+Minor consequences leaving town, I may even pop the players ahead so we can get the game moving.
+
+The players will be coming to the northern entrance to the under dark in the [[Grouschold Range]]. I'm thinking this will be a special settlement, with a bit of above ground development and a lot of caverns. It'll be a long left to right map using a custom map size in RimWorld and include a road going left to right into a mountain on the western edge. I should be able to put down the mountain using dev tools, if I can put down water as well I will.
+
+There should also be a road heading further south.
+
+I should also have maps prepared for the [[Kuunsterkollektiv]] and the [[City of Eilistrae]] just in case the players decide to run along to one of those locations. It may even be wise to put together both, and let the gate settlement be fairly small. I'd also want to put together and cave encounter and a highway encounter map.
