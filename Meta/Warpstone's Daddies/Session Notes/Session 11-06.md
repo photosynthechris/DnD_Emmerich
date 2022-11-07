@@ -53,10 +53,9 @@ z3: 1
 z4: 8
 
 Kelda
-Z1* 3
+Z1 3
 Essek
-Z2 14
-Z4 1 *Hex*
+Z2 14 *Hex*
 Tali
 Poogey
 Groog
