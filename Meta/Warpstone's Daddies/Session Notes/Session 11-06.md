@@ -75,3 +75,9 @@ The players will be coming to the northern entrance to the under dark in the [[G
 There should also be a road heading further south.
 
 I should also have maps prepared for the [[Kuunsterkollektiv]] and the [[City of Eilistrae]] just in case the players decide to run along to one of those locations. It may even be wise to put together both, and let the gate settlement be fairly small. I'd also want to put together and cave encounter and a highway encounter map.
+
+I'll also need to figure out some NPC templates, it'll be much easier for me if I can build an NPC from a template especially if they're not "on camera" much. Named NPCs will be more obvious. Then PC's need to be refined, if I can I should get their equipment loadout and psycasting set up so they match their game PCs. Saving those to slots will help a ton.
+
+We'll just put all skills for all characters at maximum, and put them on neutral backgrounds. Background shouldn't really effect anything displayed so I don't think that's important. Everything that's displayed can be effected in the character creator.
+
+We'll need to make gene templates too for the different races. Certain monsters will need to be gene templates too, mainly the humanoid ones.
