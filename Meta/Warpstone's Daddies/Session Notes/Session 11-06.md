@@ -40,3 +40,24 @@ Do not kill the spiders, and they dump 7000 copper
 Jeff and Sarah
 
 Marriage Licenses
+
+Initiative:
+Tali: 7
+Essek: 9
+Kelda: 12
+Poogey: 5
+Grogg: 5
+z1: 11
+z2: 9
+z3: 1
+z4: 8
+
+Kelda
+Z1* 16
+Essek
+Z2 22
+Z4 22
+Tali
+Poogey
+Groog
+Z3 22
