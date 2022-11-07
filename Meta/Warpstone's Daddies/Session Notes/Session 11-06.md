@@ -55,7 +55,7 @@ z4: 8
 Kelda
 Z1* 15
 Essek
-Z2 22
+Z2 14
 Z4 1 *Hex*
 Tali
 Poogey
