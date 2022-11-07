@@ -14,8 +14,8 @@ rodmon wants the party to deliever him to the capital
 
 Fight with leader person
 
-spider 1: 5
-spider 2: 20
+spider 1: 13
+spider 2: 26
 
 attack roll or saving through minus -1d4
 
