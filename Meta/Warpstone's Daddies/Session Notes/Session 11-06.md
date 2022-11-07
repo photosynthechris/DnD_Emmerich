@@ -82,4 +82,12 @@ We'll just put all skills for all characters at maximum, and put them on neutral
 
 We'll need to make gene templates too for the different races. Certain monsters will need to be gene templates too, mainly the humanoid ones.
 
-If I go really crazy with it I might look into in the longer term seeing if I could easily mod in some dev tools, like adjusting how many ticks are in a day or testing if no ecology turns off 
+If I go really crazy with it I might look into in the longer term seeing if I could easily mod in some dev tools, like adjusting how many ticks are in a day or testing if no ecology turns off day cycle. That'd be good for combat. Then I'd need to test what conditions result in draft being cancelled. As long as no damage is turned on I think characters won't get malnourished. Who knows, maybe if no ecology is turned on needs may not move either. I'll need to run some tests.
+
+With those things, then I'd want to look just making the map-making process easier. Exporting and importing structures would probably be good. I'd also wanna test if no ecology turns off things like fuel depletion. If that's the case that'd be golden. Honestly it might be good to have background NPCs be on automatic with basic labor tasks.
+
+The things that'd be helpful would be having buttons on main screen for stuff like no ecology or any other tool I need, or turning on and off the lighting layer, or even the damage options. I'd also want damage till down and damage to death handy, or maybe like "give paralytic ablasia" or something. Maybe also a construction menu for map stuff and a spawn menu for things. And the weather button? I'd imagine RimWorld would let you put a UI together and call those buttons.
+
+Draftable animals or just draft all creatures would be nice too, if it's possible. That way I could have beast fights.
+
+A map grid could also be nice!
