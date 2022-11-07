@@ -60,4 +60,4 @@ Z4 22
 Tali
 Poogey
 Groog
-Z3 22
+Z3 16
