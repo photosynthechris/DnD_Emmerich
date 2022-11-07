@@ -61,3 +61,6 @@ Tali
 Poogey
 Groog
 Z3 16
+
+36-18
+6
