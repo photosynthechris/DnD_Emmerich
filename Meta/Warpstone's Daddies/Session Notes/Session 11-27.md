@@ -30,3 +30,4 @@ Essek
 
 Essek?
 
+Golden door at bottom canyon cavern, someone watching when opened.
