@@ -11,3 +11,5 @@ lord ralph squeakerton, first of his name
 Unay, the blacksmith
 
 Essek gives two daggers, let them run wild with smithing, do whatever their heart leads them to do. Gives 200 gold to do so.
+
+Poogey wants an improved glaive for 40 gold, ready in 2-3 days
