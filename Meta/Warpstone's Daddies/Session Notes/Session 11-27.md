@@ -20,3 +20,4 @@ Also leather armor for 5 gp
 
 So 65+ for the glaive improvement
 
+160 gp for box of silver rings
