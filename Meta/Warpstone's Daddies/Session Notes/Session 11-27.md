@@ -23,3 +23,10 @@ So 65+ for the glaive improvement
 160 gp for box of silver rings
 
 Avelia <- Dead Wife
+
+Phonecia believes Poogey is dead and Avelia escaped, don't know beyond that.
+
+Essek
+
+Essek?
+
