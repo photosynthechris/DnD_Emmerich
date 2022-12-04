@@ -11,3 +11,11 @@ Robbin encouraged to be a word man (focus on booty)]
 Pick back up the next morning, be ready for going into the underdark
 
 tali wants to use the telescope to figure out the weird celestial thing
+
+
+
+================================
+
+
+
+Journey Stuff
