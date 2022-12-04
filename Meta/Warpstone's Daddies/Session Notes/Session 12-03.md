@@ -19,3 +19,9 @@ tali wants to use the telescope to figure out the weird celestial thing
 
 
 Journey Stuff
+
+Boat Stuff:
+
+Magic Cannon - table for effectiveness
+
+Guns are still around, just in bigger cities and markets
