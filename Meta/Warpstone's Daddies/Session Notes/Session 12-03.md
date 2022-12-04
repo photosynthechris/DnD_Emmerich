@@ -5,3 +5,5 @@ General Fallus Rex
 437rd meeting of the lolipop guild
 
 Town called Bottomhill
+
+Robbin encouraged to be a word man (focus on booty)
