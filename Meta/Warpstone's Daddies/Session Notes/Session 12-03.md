@@ -6,4 +6,6 @@ General Fallus Rex
 
 Town called Bottomhill
 
-Robbin encouraged to be a word man (focus on booty)
+Robbin encouraged to be a word man (focus on booty)]
+
+Pick back up the next morning, be ready for going into the underdark
