@@ -12,4 +12,7 @@ Java's goal, as a member of the dark cult around the entity, is to create a nucl
 
 Additionally, the Turask will be infused with radioactive energy, which in addition to the effects of the bomb blast will start poisoning the region. Travel will become more difficult. The Turask will terrorize the landscape but without intervention will not move beyond the region's borders.
 
-If Java is able to convince the players to go to his lab, which is an abandoned tower on a rock island in the sea, they'll see the prototype nuclear weapon which he is building there, along with a arcanic one-use portal spell to teleport the device. 
+If Java is able to convince the players to go to his lab, which is an abandoned tower on a rock island in the sea, they'll see the prototype nuclear weapon which he is building there, along with a arcanic one-use portal spell to teleport the device. Java will try to get Kadek to the island regardless of the player's support, so that he can be made to perform final construction of the device and the construciton of the portal spell
+
+If the players go to Kunstlerkollectiv instead, they will have to fight Java first to keep Kadek with them. Once at the Kunstlerkollective, they'll see more stuff. This probably will be next session, but maybe not.
+
