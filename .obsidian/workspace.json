@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meta/Warpstone's Daddies/Session Notes/Session 2023-02-01.md",
+                "file": "Meta/Warpstone's Daddies/Session Notes/Session 2023-02-01 - 13th session.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "136220413396a162",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meta/Warpstone's Daddies/Session Notes/Session 2023-03-05 - 14th session.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meta/Warpstone's Daddies/Session Notes/Session 2023-02-01.md",
+                "file": "Meta/Warpstone's Daddies/Session Notes/Session 2023-03-05 - 14th session.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Meta/Warpstone's Daddies/Session Notes/Session 2023-02-01.md",
+                "file": "Meta/Warpstone's Daddies/Session Notes/Session 2023-03-05 - 14th session.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Meta/Warpstone's Daddies/Session Notes/Session 2023-02-01.md"
+                "file": "Meta/Warpstone's Daddies/Session Notes/Session 2023-03-05 - 14th session.md"
               }
             }
           },
@@ -188,10 +200,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d75cda2ab6c4f1ca",
+  "active": "136220413396a162",
   "lastOpenFiles": [
-    "Meta/Warpstone's Daddies/Session Notes/Session 2023-01-21.md",
-    "Meta/Warpstone's Daddies/Session Notes/Session 2023-02-01.md",
+    "Meta/Warpstone's Daddies/Session Notes/Session 2023-02-01 - 13th session.md",
+    "Meta/Warpstone's Daddies/Session Notes/Session 2023-01-21 - 12th session.md",
     "Meta/Warpstone's Daddies/Session Notes/Session 2022-12-03.md",
     "Meta/Warpstone's Daddies/Session Notes/Session 2022-09-25.md",
     "Meta/Warpstone's Daddies/Session Notes/Session 2022-09-28.md",
