@@ -35,3 +35,4 @@ Perception:
 
 Java is gone
 
+Java snuck off to the sewers
