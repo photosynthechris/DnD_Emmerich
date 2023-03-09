@@ -16,3 +16,5 @@ If Java is able to convince the players to go to his lab, which is an abandoned 
 
 If the players go to Kunstlerkollectiv instead, they will have to fight Java first to keep Kadek with them. Once at the Kunstlerkollective, they'll see more stuff. This probably will be next session, but maybe not.
 
+Notes:
+Dragonborne - Jordanthan
