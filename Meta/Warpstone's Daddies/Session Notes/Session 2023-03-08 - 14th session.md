@@ -18,3 +18,8 @@ If the players go to Kunstlerkollectiv instead, they will have to fight Java fir
 
 Notes:
 Dragonborne - Jordanthan
+
+Interrogation with Shriveldick
+
+Zone of Truth
+
