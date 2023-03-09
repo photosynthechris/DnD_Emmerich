@@ -2,7 +2,7 @@ Plans:
 
 So up coming, the party will be looking to extract Kadek Warpstone from prison. They have hired the dragonborne bartender traitor to do this job, but I'm anticipating a backfire. The party may be able to support this effort, as a botched prison break in the midst of the peak of the drow rave is bound to cause endless chaos.
 
-When they successfully do aquire Kadek, he will be in a very incoherent, deranged state and mostly will be speaking fractured dwarvish. He will also be very skinny and wasted away from his time in jail.
+When they successfully do acquire Kadek, he will be in a very incoherent, deranged state and mostly will be speaking fractured dwarvish. He will also be very skinny and wasted away from his time in jail.
 
 He was jailed for trying to steal records from the Drow's religious archives in the temple. The archives he was searching for are historical/mythical records of past incursions of the entity of the west, records of historical/mythical variations of the atomic bomb (called splitting fireball, arcanic fireball, and "the blast") and related accounts of radiation sickness ("melting plague", or "dissolving disease")
 
