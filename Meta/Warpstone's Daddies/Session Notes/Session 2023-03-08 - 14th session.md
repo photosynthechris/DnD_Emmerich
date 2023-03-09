@@ -27,3 +27,10 @@ Elf did not save
 
 True answer: Heard about it from a letter sent from a fellow member of the cult of abbadon, darkness of the hexblade
 
+Perception:
+24
+16
+3
+11
+
+Java is gone
