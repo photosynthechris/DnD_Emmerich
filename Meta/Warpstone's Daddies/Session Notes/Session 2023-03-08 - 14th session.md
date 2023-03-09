@@ -46,3 +46,6 @@ Kelda and Poogey find spiral staircase, sneak up stairs
 Kelda and Poogey are at the top of a tower in the middle of the sea
 
 Essek and Tali do not see Kelda and Poogey using locate object
+
+Enter the bomb room
+
