@@ -41,3 +41,4 @@ Kelda & Poogey tracking into the sewers
 
 Elf starts to turn into mushroom monster, tali exorcises but he burns to bits
 
+Kelda and Poogey find spiral staircase, sneak up stairs
