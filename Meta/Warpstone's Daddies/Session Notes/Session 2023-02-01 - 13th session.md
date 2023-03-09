@@ -3,7 +3,7 @@
 	- 21 for performance
 	- walls, one gate
 	- two entrances on the tower itself
-	- guards around entrences and tops of towers
+	- guards around entrances and tops of towers
 	- drainage on each wall
 
 - Date Fight
