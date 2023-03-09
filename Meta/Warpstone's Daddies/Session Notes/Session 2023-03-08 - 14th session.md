@@ -26,3 +26,4 @@ Zone of Truth
 Elf did not save
 
 True answer: Heard about it from a letter sent from a fellow member of the cult of abbadon, darkness of the hexblade
+
