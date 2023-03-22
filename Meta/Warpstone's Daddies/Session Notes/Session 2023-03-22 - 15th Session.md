@@ -11,3 +11,6 @@ Essek 21 investigation
 Poogey 12 investigation
 Kelda 22 perception
 Tali 12 perception
+
+Essek finds some potions, +3 armor, and air force pin
+
