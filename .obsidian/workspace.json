@@ -54,9 +54,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "954daf03f807d3dc",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -200,7 +210,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "136220413396a162",
+  "active": "954daf03f807d3dc",
   "lastOpenFiles": [
     "Meta/Warpstone's Daddies/Session Notes/Session 2022-11-06.md",
     "Meta/Warpstone's Daddies/Session Notes/Session 2023-01-21 - 12th session.md",
