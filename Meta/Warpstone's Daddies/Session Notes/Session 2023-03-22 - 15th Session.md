@@ -24,7 +24,7 @@ Party escapes from bunker box
 
 Essek causes a civil war between fish people that believe in the fake image of Bilbdoolpoolp and those that don't
 
-Essek puts on pirate hat that makes him look 30 years older, but cannot remove it (hasn't discovered that yet)
+Essek puts on pirate hat that makes him look 30 years older, but cannot remove it
 
 Also gets an eyepatch with this spell:
 The item is cursed, and attuning to it extends this curse to you. You cannot remove the item unless you are targeted by the remove curse spell or similar magic. Whenever you reduce a creature to 0 hit points while cursed, you experience a rush of euphoria that leaves you incapacitated until the end of your next turn.
