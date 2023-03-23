@@ -23,3 +23,5 @@ Kuo-toa altar is sat in front
 Party escapes from bunker box
 
 Essek causes a civil war between fish people that believe in the fake image of Bilbdoolpoolp and those that don't
+
+Essek puts on pirate hat that makes him look 30 years older, but cannot remove it (hasn't discovered that yet)
