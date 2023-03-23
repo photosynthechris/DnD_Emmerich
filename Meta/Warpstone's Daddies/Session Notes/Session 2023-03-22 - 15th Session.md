@@ -29,3 +29,6 @@ Essek puts on pirate hat that makes him look 30 years older, but cannot remove i
 Also gets an eyepatch with this spell:
 The item is cursed, and attuning to it extends this curse to you. You cannot remove the item unless you are targeted by the remove curse spell or similar magic. Whenever you reduce a creature to 0 hit points while cursed, you experience a rush of euphoria that leaves you incapacitated until the end of your next turn.
 
+Find a mimic, make it drown, it tries to escape
+
+Short rest before they explore the rest of the ship. Dungeon crawl for next time.
