@@ -19,3 +19,5 @@ Kuo-toa Whip: 65 - 11 - 9 = 45
 Whip leads the party to the fish camp, settled in the ancient ruins of Chicago
 
 Kuo-toa altar is sat in front
+
+Party escapes from bunker box
