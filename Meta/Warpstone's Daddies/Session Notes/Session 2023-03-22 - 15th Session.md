@@ -14,3 +14,11 @@ Tali 12 perception
 
 Essek finds some potions, +3 armor, and air force pin
 
+Kuo-toa Whip: 65 - 11 - 9 = 45
+
+Initiative:
+KTW
+Tali
+Kelda
+Poogey
+Essek
