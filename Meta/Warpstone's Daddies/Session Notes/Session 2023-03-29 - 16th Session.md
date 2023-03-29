@@ -7,3 +7,11 @@ Finds old sineage on the road:
 300 miles to Jorvik
 
 Sun's starting to go down
+
+Vamp (Bandit Leader) - 140
+Vamp Spawn (Bandit) - 82
+Vamp Spawn (Bandit) - 82
+Bandit - 20
+Bandit - 20
+Bandit - 20
+
