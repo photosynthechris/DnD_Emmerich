@@ -8,7 +8,7 @@ Finds old sineage on the road:
 
 Sun's starting to go down, ambush on the IHE
 
-Vamp (Bandit Leader) - 144, 140
+Vamp (Bandit Leader) - 144
 Vamp Spawn (Bandit) - 82
 Vamp Spawn (Bandit) - 82
 Bandit - 20
@@ -18,6 +18,7 @@ Bandit - 20
 Spike Growth (10 ft radius) - hard spikes and thorns (2d4 piercing for every 5 ft traveled)
 
 P - 10c
+Sp - 9
 E - 14
 K - 5
 T - 17
@@ -28,13 +29,14 @@ B1 - 16
 B2 - 18
 B3 - 4
 
-B2
+B2 - 20, 15, 9
 T
 B1
 E
-VL
+VL - 144, 140
 VS2
 P
+S
 VS1
 K
 B3
