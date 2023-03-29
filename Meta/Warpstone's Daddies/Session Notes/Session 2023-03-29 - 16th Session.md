@@ -17,5 +17,25 @@ Bandit - 20
 
 Spike Growth (10 ft radius) - hard spikes and thorns (2d4 piercing for every 5 ft traveled)
 
+P - 10c
+E - 14
+K - 5
+T - 17
+VL - 10a
+VS1 - 7
+VS2 - 10b
+B1 - 16
+B2 - 18
+B3 - 4
 
+B2
+T
+B1
+E
+VL
+VS2
+P
+VS1
+K
+B3
 
