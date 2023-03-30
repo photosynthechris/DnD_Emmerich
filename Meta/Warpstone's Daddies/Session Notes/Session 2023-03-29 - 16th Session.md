@@ -70,3 +70,5 @@ Threshold: 7
 Next Session: What grogg got up to while the party was away
 
 The session will end with the party going "yeah sure bud"
+
+Grogg will go on an interdimensional/interplanetary adventure which will leave them with a crazy powerful magical item that the party won't believe Grogg has
