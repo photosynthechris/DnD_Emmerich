@@ -66,3 +66,7 @@ Eyebite (4 long rest)
 Every long rest you've had it, roll 1d8. If you roll under the threshold, then nothing happens. If you roll above, the threshold goes down one. The threshold starts at 7. When the threshold gets to 0, the items disintegrate.
 
 Threshold: 7
+
+Next Session: What grogg got up to while the party was away
+
+The session will end with the party going "yeah sure bud"
