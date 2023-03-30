@@ -34,7 +34,7 @@ T
 B1 - 20, 9, 7, 0
 E
 VL - 144, 140 (encased, incapacitated)
-VS2
+VS2 - 82, 76
 P
 S
 VS1
