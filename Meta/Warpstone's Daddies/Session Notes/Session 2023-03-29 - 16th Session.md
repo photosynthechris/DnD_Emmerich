@@ -44,3 +44,23 @@ K
 Essek gets Quillon's Skull
 
 Poogey gets Black Rose
+
+Hand Imitator:
+Can use one of the following spells:
+Finger of Death (cooldown, 5 long rest)
+Sleep (cooldown, 1 long rest)
+Slow (cooldown, 2 long rest)
+Teleport (cooldown, 3 long rest)
+When used, the imitator can attempt to cast suggestion on you with a (DC 13)
+
+Eye Imitator:
+Truesight 1 minute per long rest
+Clairvoyance (2 long rest)
+Crown of Madness (1 long rest)
+Disintegrate (4 long rest)
+Dominate Monster (5 long rest)
+Eyebite (4 long rest)
+
+10% chance of immediate contact with Vecna
+
+Every long rest you've had it, roll 1d8. If you roll under the threshold, then nothing happens. If you roll above, the threshold goes down one. The threshold starts at 7. When the threshold gets to 0, the items disintegrate.
