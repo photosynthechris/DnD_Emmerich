@@ -42,3 +42,5 @@ K
 ~~B3 - 20, 8, 1, 0~~
 
 Essek gets Quillon's Skull
+
+Poogey gets Black Rose
