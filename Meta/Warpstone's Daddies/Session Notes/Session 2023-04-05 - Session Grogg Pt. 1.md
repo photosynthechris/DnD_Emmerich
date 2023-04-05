@@ -31,5 +31,3 @@ Elves - Protectors of Areopolis (Meritocratic Empire) - Controls the two great s
 Notes for the session:
 
 
-Grogg 5
-Helga 17
