@@ -14,4 +14,5 @@ Notes about the Fey-Wild:
 - The Feywilds today is extremely decentralized, in large part thanks to the robustness of it's terraforming and the sustainability of it's climate protection system. Nominally, the various races of elves serve as the world's guardians and protectors, but pay little attention to the day to day affairs of most of the world's surface, instead tracking their sister worlds and mysterious activity on the very edges of the system. Gnomes serve the elvish elite, helping maintain the climate control systems that keep the world green. Much of the rest of the world is filled with diverse small settlements of Fey, Elves, and Gnomes.
 
 Plans for this story:
-Grogg is introduced to every person in the temp party
+Grogg is 
+
