@@ -18,5 +18,6 @@ Grogg is in the rave
 Is distracted by pointy albino elf, turns out to be a rabbit man
 Tells Grogg that they can help him find his "Mommy-Daddy"
 Grogg is confused exactly how he leaves the cave, he remembers lots of swirly lights and the crashing of waves. He also mentions something about sweet drinks and smelly smoke
-Finds himself on the 
-
+Finds himself on the "Eumenides Peninsula", near a settlement named after the same
+Mostly populated with gnomes
+Will be directed to travel to Mount Olympus to find "The Grand Seer", who will tell them where "Mommy-Daddy" is.
