@@ -21,3 +21,13 @@ Grogg is confused exactly how he leaves the cave, he remembers lots of swirly li
 Finds himself on the "Eumenides Peninsula", near a settlement named after the same
 Mostly populated with gnomes
 Will be directed to travel to Mount Olympus to find "The Grand Seer", who will tell them where "Mommy-Daddy" is.
+
+Factions:
+Eladrin - (Feudal Association) - Number of small kingdoms scatter the planet. Mostly not affiliated, with themselves and especially with any other faction.
+Elves - Protectors of Areopolis (Meritocratic Empire) - Controls the two great spires (space elevators), and a number of major cities.
+
+
+------
+Notes for the session:
+
+
