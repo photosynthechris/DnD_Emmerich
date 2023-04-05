@@ -14,5 +14,9 @@ Notes about the Fey-Wild:
 - The Feywilds today is extremely decentralized, in large part thanks to the robustness of it's terraforming and the sustainability of it's climate protection system. Nominally, the various races of elves serve as the world's guardians and protectors, but pay little attention to the day to day affairs of most of the world's surface, instead tracking their sister worlds and mysterious activity on the very edges of the system. Gnomes serve the elvish elite, helping maintain the climate control systems that keep the world green. Much of the rest of the world is filled with diverse small settlements of Fey, Elves, and Gnomes.
 
 Plans for this story:
-Grogg is 
+Grogg is in the rave
+Is distracted by pointy albino elf, turns out to be a rabbit man
+Tells Grogg that they can help him find his "Mommy-Daddy"
+Grogg is confused exactly how he leaves the cave, he remembers lots of swirly lights and the crashing of waves. He also mentions something about sweet drinks and smelly smoke
+Finds himself on the 
 
