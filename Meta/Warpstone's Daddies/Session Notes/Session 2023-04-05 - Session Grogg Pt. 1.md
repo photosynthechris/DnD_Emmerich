@@ -32,8 +32,6 @@ Notes for the session:
 
 4 pixies 4 sprites
 
-P3 9
-
 S1 12
 S2 11
 S3 10
@@ -49,9 +47,11 @@ G 22
 
 G
 A
-K
 H
 S
 S1
 P
+K
 S2
+S3
+S4
