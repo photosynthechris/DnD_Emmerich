@@ -30,3 +30,28 @@ Elves - Protectors of Areopolis (Meritocratic Empire) - Controls the two great s
 ------
 Notes for the session:
 
+4 pixies 4 sprites
+
+P2 10
+P3 9
+
+S1 12
+S2 11
+S3 10
+S4 9
+
+Korred 20
+
+H 19
+A 21
+P 11
+S 12
+G 22
+
+G
+A
+H
+S
+S1
+P
+S2
