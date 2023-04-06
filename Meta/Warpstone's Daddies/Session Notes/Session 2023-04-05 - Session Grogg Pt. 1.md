@@ -51,7 +51,7 @@ H
 S
 S1
 P
-K
+FT
 S2
 S3
 S4
