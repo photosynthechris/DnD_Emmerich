@@ -8,3 +8,6 @@ Day 9
 
 Get the weapons from the forge
 
+Kelda got a bow +2 with Precise (critical at 19 or 20)
+
+Poogey get an chain shirt +2
