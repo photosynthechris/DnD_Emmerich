@@ -11,3 +11,5 @@ Get the weapons from the forge
 Kelda got a bow +2 with Precise (critical at 19 or 20)
 
 Poogey get an chain shirt +2
+
+Quillon's Skull: Essek doesn't know yet, but once he figures out how to use it: It transforms into a flameskull at his command for up to 15 minutes per charge.
