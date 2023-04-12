@@ -4,3 +4,5 @@ Daggers = Inebriating: On a successful critical hit, the weapon inflicts drunken
 
 ---
 
+Day 9
+
