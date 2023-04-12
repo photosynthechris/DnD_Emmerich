@@ -24,3 +24,9 @@ Explosions on the feywild (within last few days)
 
 Notes that they can't see the surface of the hells, and "comet" shooting from the hells to emmerich some time ago
 
+15-17000 years ago
+
+Slayed the "Beast of the Serpent" who launched a "zombie" invasion 
+
+Tali Telescopes:
+
