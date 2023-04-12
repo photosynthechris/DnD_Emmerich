@@ -2,3 +2,5 @@ Glaive = Necromancer: Two times per long rest, a creature slain by this weapon c
 
 Daggers = Inebriating: On a successful critical hit, the weapon inflicts drunkenness on the target.
 
+---
+
