@@ -18,9 +18,9 @@ Tali gets Amulet of Proof against Detection and Location
 
 Ramrod tells of magical creatures enchained under the city of the drow
 
-Ships flying near pandemonium
+Ships flying near pandemonium (1 month ago)
 
-Explosions on the feywild
+Explosions on the feywild (within last few days)
 
 Notes that they can't see the surface of the hells, and "comet" shooting from the hells to emmerich some time ago
 
