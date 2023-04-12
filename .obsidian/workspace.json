@@ -114,9 +114,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "94ff9aaf0586e271",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meta/Warpstone's Daddies/Session Notes/Session 2023-04-12 - 17th Session.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -182,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meta/Warpstone's Daddies/Session Notes/Session 2023-04-05 - Session Grogg Pt. 1.md",
+                "file": "Meta/Warpstone's Daddies/Session Notes/Session 2023-04-12 - 17th Session.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Meta/Warpstone's Daddies/Session Notes/Session 2023-04-05 - Session Grogg Pt. 1.md",
+                "file": "Meta/Warpstone's Daddies/Session Notes/Session 2023-04-12 - 17th Session.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -222,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Meta/Warpstone's Daddies/Session Notes/Session 2023-04-05 - Session Grogg Pt. 1.md"
+                "file": "Meta/Warpstone's Daddies/Session Notes/Session 2023-04-12 - 17th Session.md"
               }
             }
           },
@@ -260,26 +272,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4f18ef52603ae1ce",
+  "active": "94ff9aaf0586e271",
   "lastOpenFiles": [
+    "Meta/Warpstone's Daddies/Session Notes/Session 2023-01-21 - 12th session.md",
+    "Meta/Warpstone's Daddies/Session Notes/Session 2022-12-03.md",
+    "Meta/Warpstone's Daddies/Session Notes/Session 2023-02-01 - 13th session.md",
+    "Meta/Warpstone's Daddies/Session Notes/Session 2023-03-08 - 14th session.md",
+    "Meta/Warpstone's Daddies/Session Notes/Session 2023-04-12 - 17th Session.md",
+    "Meta/Warpstone's Daddies/Session Notes/Session 2023-03-22 - 15th Session.md",
+    "Meta/Warpstone's Daddies/Session Notes/Session 2023-03-29 - 16th Session.md",
+    "Meta/Warpstone's Daddies/Session Notes/Session 2023-04-05 - Session Grogg Pt. 1.md",
     "organizations/Lunumbra/Tor/Emmerich/Domus Iustitiae.md",
     "organizations/Lunumbra/Tor/Emmerich/Kuunsterkollektiv.md",
     "organizations/Lunumbra/Tor/Emmerich/Mont de Pierre Liberation Movement.md",
     "organizations/Lunumbra/Tor/Emmerich/Raven's Sheild Institution of Arcana and Natural Sciences.md",
     "organizations/Lunumbra/Tor/Emmerich/Sgoil Theatar Talmhainn.md",
-    "Meta/Warpstone's Daddies/Session Notes/Session 2023-04-05 - Session Grogg Pt. 1.md",
     "Meta/Warpstone's Daddies/Player Brainstorms/Alison Brainstorming.md",
-    "Meta/Warpstone's Daddies/Session Notes/Session 2023-03-29 - 16th Session.md",
     "Meta/Warpstone's Daddies/Session Notes/Session 2022-09-25.md",
     "Meta/Warpstone's Daddies/Session Notes/Session 2022-10-08.md",
     "Meta/Warpstone's Daddies/Session Notes/Session 2022-10-16.md",
     "Meta/Warpstone's Daddies/Session Notes/Session 2022-11-06.md",
     "Meta/Warpstone's Daddies/Session Notes/Session 2022-11-27.md",
-    "Meta/Warpstone's Daddies/Session Notes/Session 2022-12-03.md",
-    "Meta/Warpstone's Daddies/Session Notes/Session 2023-01-21 - 12th session.md",
-    "Meta/Warpstone's Daddies/Session Notes/Session 2023-03-08 - 14th session.md",
-    "Meta/Warpstone's Daddies/Session Notes/Session 2023-02-01 - 13th session.md",
-    "Meta/Warpstone's Daddies/Session Notes/Session 2023-03-22 - 15th Session.md",
     "locations/Lunumbra/Tor/Emmerich/Intercontinental Highway of Emmerich.md",
     "concepts/mw_portal_room.png",
     "concepts/Leebeltar.md",
@@ -287,7 +300,6 @@
     "objects/book/Posthumous History of the Republic of Emmerich.md",
     "objects/book/Republic Council of Sciences Catalogue of Creatures, 3rd Edition.md",
     "objects/book/Starmap of Soltorwalden.md",
-    "organizations/Lunumbra/Tor/Emmerich/Council of the Mont.md",
-    "organizations/Lunumbra/Tor/Emmerich/Continental Republic.md"
+    "organizations/Lunumbra/Tor/Emmerich/Council of the Mont.md"
   ]
 }
