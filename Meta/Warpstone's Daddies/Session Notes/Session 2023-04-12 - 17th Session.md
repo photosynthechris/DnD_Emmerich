@@ -61,3 +61,6 @@ Essek will do a comprehend languages later
 Find a redcap with a mec suit in a weird little hole
 
 Kelda grabs mec suit and is loving it, having a hard time running a very unstable piece of equipment
+
+Prepare map, mech mechanics, and some other stuff for next time.
+
