@@ -64,3 +64,4 @@ Kelda grabs mec suit and is loving it, having a hard time running a very unstabl
 
 Prepare map, mech mechanics, and some other stuff for next time.
 
+Essek needs to message bulla
