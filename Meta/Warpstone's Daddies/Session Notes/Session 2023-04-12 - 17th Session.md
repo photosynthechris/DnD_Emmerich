@@ -51,3 +51,9 @@ Essek checks on the hole, one man has turned entirely yellow, the other turned a
 Essek's hole is a 4d hypersphere, and the people inside are on the surface of it.
 
 Dragonborne had a metal egg with an obsidian diamond inside, with primordial written on it.
+
+Diamond is a voodoo receiver for controlling people.
+
+Tali holds the egg
+
+Essek will do a comprehend languages later
