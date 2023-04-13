@@ -57,3 +57,5 @@ Diamond is a voodoo receiver for controlling people.
 Tali holds the egg
 
 Essek will do a comprehend languages later
+
+Kelda grabs mec suit and is loving it, having a hard time running a very unstable piece of equipment
