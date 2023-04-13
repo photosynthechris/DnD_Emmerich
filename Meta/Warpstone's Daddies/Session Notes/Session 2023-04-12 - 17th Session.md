@@ -30,4 +30,17 @@ Slayed the "Beast of the Serpent" who launched a "zombie" invasion
 
 Tali Telescopes:
 
+Sees a vision of her father in her ruined childhood home, fleeing from demons in the ruined spire
+
+Poogey Telescopes:
+
+Sees wife commanding a ship, hiding from someone
+
+Essek:
+
+Sees a vision of the stargate room, which he left the present day from, and the sounds of explosions in the distant background.
+
 7991
+
+Tali Locate Object Again:
+
