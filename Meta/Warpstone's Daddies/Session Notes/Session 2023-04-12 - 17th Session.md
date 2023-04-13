@@ -47,3 +47,5 @@ Tali Locate Object Again:
 Elf has carried an orc and other people out of a metal bird and towards a well. The orc goes down the well. The other figures are going down a mountain towards a desert
 
 Essek checks on the hole, one man has turned entirely yellow, the other turned ancient, and the third has escaped somehow
+
+Essek's hole is a 4d hypersphere, and the people inside are on the surface of it.
