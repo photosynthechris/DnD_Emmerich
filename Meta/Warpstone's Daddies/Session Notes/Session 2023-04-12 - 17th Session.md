@@ -49,3 +49,5 @@ Elf has carried an orc and other people out of a metal bird and towards a well. 
 Essek checks on the hole, one man has turned entirely yellow, the other turned ancient, and the third has escaped somehow
 
 Essek's hole is a 4d hypersphere, and the people inside are on the surface of it.
+
+Dragonborne had a metal egg with an obsidian diamond inside, with primordial written on it.
