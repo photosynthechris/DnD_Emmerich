@@ -44,3 +44,4 @@ Sees a vision of the stargate room, which he left the present day from, and the 
 
 Tali Locate Object Again:
 
+Elf has carried an orc and other people out of a metal bird and towards a well. The orc goes down the well. The other figures are going down a mountain towards a desert
