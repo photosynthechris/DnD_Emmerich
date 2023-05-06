@@ -95,9 +95,11 @@
             "id": "a4552c9d0c472f77",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.2.7"
+                "file": "Meta/Warpstone's Daddies/Session Notes/Session 2023-05-06 - 18th Session.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -188,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meta/Warpstone's Daddies/Session Notes/Session 2023-04-12 - 17th Session.md",
+                "file": "Meta/Warpstone's Daddies/Session Notes/Session 2023-05-06 - 18th Session.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Meta/Warpstone's Daddies/Session Notes/Session 2023-04-12 - 17th Session.md",
+                "file": "Meta/Warpstone's Daddies/Session Notes/Session 2023-05-06 - 18th Session.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -228,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Meta/Warpstone's Daddies/Session Notes/Session 2023-04-12 - 17th Session.md"
+                "file": "Meta/Warpstone's Daddies/Session Notes/Session 2023-05-06 - 18th Session.md"
               }
             }
           },
@@ -268,9 +270,10 @@
   },
   "active": "a4552c9d0c472f77",
   "lastOpenFiles": [
+    "Meta/Warpstone's Daddies/Session Notes/Session 2023-04-12 - 17th Session.md",
+    "Meta/Warpstone's Daddies/Session Notes/Session 2023-05-06 - 18th Session.md",
     "Meta/Warpstone's Daddies/Session Notes/Session 2023-03-29 - 16th Session.md",
     "Meta/Warpstone's Daddies/Session Notes/Session 2023-04-05 - Session Grogg Pt. 1.md",
-    "Meta/Warpstone's Daddies/Session Notes/Session 2023-04-12 - 17th Session.md",
     "Meta/Warpstone's Daddies/Session Notes/Session 2022-09-25.md",
     "Meta/Warpstone's Daddies/Session Notes/Session 2022-09-28.md",
     "Meta/Warpstone's Daddies/Session Notes/Session 2023-01-21 - 12th session.md",
@@ -293,7 +296,6 @@
     "concepts/mw_portal_room.png",
     "concepts/Leebeltar.md",
     "objects/book/On the Mechanics of Automated Carriages.md",
-    "objects/book/Posthumous History of the Republic of Emmerich.md",
-    "objects/book/Republic Council of Sciences Catalogue of Creatures, 3rd Edition.md"
+    "objects/book/Posthumous History of the Republic of Emmerich.md"
   ]
 }
