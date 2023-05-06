@@ -92,6 +92,16 @@
             }
           },
           {
+            "id": "a4552c9d0c472f77",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.7"
+              }
+            }
+          },
+          {
             "id": "947e5bdbab596ede",
             "type": "leaf",
             "state": {
@@ -104,7 +114,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -147,6 +157,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "f680e375d362e5a4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -248,7 +266,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "76b6d2f89dbb42fe",
+  "active": "a4552c9d0c472f77",
   "lastOpenFiles": [
     "Meta/Warpstone's Daddies/Session Notes/Session 2023-03-29 - 16th Session.md",
     "Meta/Warpstone's Daddies/Session Notes/Session 2023-04-05 - Session Grogg Pt. 1.md",
