@@ -25,3 +25,7 @@ D4: 40
 ~~D10: 40~~
 
 incest furry porn death
+
+Freddy healed and tamed by Essek
+
+Freddy: 20 hp
