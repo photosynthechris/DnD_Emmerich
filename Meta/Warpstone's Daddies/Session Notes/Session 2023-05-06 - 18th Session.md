@@ -33,3 +33,7 @@ Freddy: 20 hp
 Ring to cast web at will
 
 Tali wants to explore around and find some shit with detect magic she's just cast.
+
+Essek wants to look for flax, wool, or cloth
+
+Poogey wants to go down to the double doors the guard entered and sit and guard
