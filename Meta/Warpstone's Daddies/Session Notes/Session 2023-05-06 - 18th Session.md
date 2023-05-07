@@ -29,3 +29,5 @@ incest furry porn death
 Freddy healed and tamed by Essek
 
 Freddy: 20 hp
+
+Ring to cast web at will
