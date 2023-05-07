@@ -31,3 +31,5 @@ Freddy healed and tamed by Essek
 Freddy: 20 hp
 
 Ring to cast web at will
+
+Tali wants to explore around and find some shit with detect magic she's just cast.
