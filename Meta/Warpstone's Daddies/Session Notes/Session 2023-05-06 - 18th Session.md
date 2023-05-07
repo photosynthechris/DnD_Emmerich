@@ -10,7 +10,7 @@ Drow 1: 18
 Drow 2: 21
 Drow 3: 10
 Drow 4: 5
-Drow 5: 4
+Drow 10: 4
 
 E
 D2: 40
@@ -21,4 +21,4 @@ TR
 P
 D3: 40
 D4: 40
-D5: 40
+D10: 40
