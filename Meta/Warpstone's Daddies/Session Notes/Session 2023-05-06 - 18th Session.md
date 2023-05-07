@@ -35,5 +35,6 @@ Ring to cast web at will
 Tali wants to explore around and find some shit with detect magic she's just cast.
 
 Essek wants to look for flax, wool, or cloth
+Makes a classic black tophat with purple ribbon and silver broach for fredrick
 
-Poogey wants to go down to the double doors the guard entered and sit and guard
+Poogey wants to go down to the double doors the guard entered and sit and guard, panthers are guarding
