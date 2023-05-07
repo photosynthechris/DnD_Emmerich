@@ -14,10 +14,11 @@ Drow 10: 4
 
 E
 D2: 32
-D1: 25
+D1: 17
 G
 K
 TR
+Panthers
 P
 D3: 40
 D4: 40
