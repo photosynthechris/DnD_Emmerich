@@ -174,7 +174,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "3504aac46e988740",
@@ -255,7 +256,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -268,7 +270,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a4552c9d0c472f77",
+  "active": "160c5a3fff5175bc",
   "lastOpenFiles": [
     "Meta/Warpstone's Daddies/Session Notes/Session 2023-04-12 - 17th Session.md",
     "Meta/Warpstone's Daddies/Session Notes/Session 2023-05-06 - 18th Session.md",

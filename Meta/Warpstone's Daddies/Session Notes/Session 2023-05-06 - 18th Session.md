@@ -6,8 +6,19 @@ P: 10
 E: 25
 G: 17
 Panthers: 13
-Drow 1
-Drow 2
-Drow 3
-Drow 4
-Drow 5
+Drow 1: 18
+Drow 2: 21
+Drow 3: 10
+Drow 4: 5
+Drow 5: 4
+
+E
+D2: 40
+D1: 40
+G
+K
+TR
+P
+D3: 40
+D4: 40
+D5: 40
