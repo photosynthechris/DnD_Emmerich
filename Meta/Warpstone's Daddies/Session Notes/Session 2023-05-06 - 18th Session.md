@@ -39,12 +39,3 @@ Makes a classic black tophat with purple ribbon and silver broach for fredrick
 
 Poogey wants to go down to the double doors the guard entered and sit and guard, panthers are guarding
 
-Guard 4: 20 - 4 = 16 - 8 = 8 - 7 = 1
-
-Master: 149 - 5 = 144
-Tali:
-Poogey:
-Panthers:
-Kelda:
-Essek:
-Grogg:
