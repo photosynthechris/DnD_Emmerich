@@ -1,6 +1,6 @@
 Guard 4: 20 - 4 = 16 - 8 = 8 - 7 = 1
 
-Master: 5 : 149 - 5 = 144
+Master: 5 : 149 - 5 = 144 - 16 - 5 = 123
 Tali: 15
 Poogey: 21 (nat 20)
 Panthers: 11
