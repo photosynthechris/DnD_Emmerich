@@ -20,6 +20,9 @@ Warpstone: 4 + 11 = 15
 Negative Conditions removed
 Warpstone had poisoned, so that is removed
 
+Party frees warpstone and escort dwarves, but no other prisoners. All guards died. Warden died in the collapse of the prison. Party did not see nor interacted with the warden.
+
+Essek turned into an ape and collapsed the prison.
 
 Essek has a new bar (passive income, talk to chris)
 
@@ -28,3 +31,5 @@ Essek wants to mend inquisitor clothes
 Next time, talk to warpstone, have a few drinks, take a long rest.
 
 Level 8
+
+Afternoon Day 10
