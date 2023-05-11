@@ -33,3 +33,5 @@ Next time, talk to warpstone, have a few drinks, take a long rest.
 Level 8
 
 Afternoon Day 10
+
+Chris wants a fight pit, have different options per location and costs/consequences for failure, etc. 
