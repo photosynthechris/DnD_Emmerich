@@ -15,3 +15,7 @@ T:
 Panthers:
 K:
 M:
+
+Warpstone: 4 + 11 = 15
+Negative Conditions removed
+Warpstone had poisoned, so that is removed
