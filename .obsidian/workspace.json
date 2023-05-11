@@ -104,6 +104,16 @@
             }
           },
           {
+            "id": "1e0bb2e38cd4ab11",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.8"
+              }
+            }
+          },
+          {
             "id": "947e5bdbab596ede",
             "type": "leaf",
             "state": {
@@ -116,7 +126,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -269,7 +279,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a4552c9d0c472f77",
+  "active": "1e0bb2e38cd4ab11",
   "lastOpenFiles": [
     "Meta/Warpstone's Daddies/Session Notes/Session 2023-05-06 - 18th Session.md",
     "Meta/Warpstone's Daddies/Session Notes/Session 2023-04-12 - 17th Session.md",
