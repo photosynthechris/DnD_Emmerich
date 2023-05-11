@@ -24,3 +24,7 @@ Warpstone had poisoned, so that is removed
 Essek has a new bar (passive income, talk to chris)
 
 Essek wants to mend inquisitor clothes
+
+Next time, talk to warpstone, have a few drinks, take a long rest.
+
+Level 8
