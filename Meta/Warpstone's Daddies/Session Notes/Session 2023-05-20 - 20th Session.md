@@ -2,4 +2,4 @@ The In Person Session!
 
 Kadek talks about Kunsterkollectiv
 
-Jaffet went there 
+Jaffet went there as a student
