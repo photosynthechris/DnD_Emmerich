@@ -11,3 +11,5 @@ potion of species reassignment
 2 earings
 3 rings
 1 hilt of a sword
+
+kelda will get kidnapped next fight you lose
