@@ -11,3 +11,9 @@ Gets computer out, dwarf tries to get signal, flash with elder brain connection 
 An... "octopus?" appears on the screen briefly, but only Kelda notices
 
 Emmanuel Umble Beachy's Meats & Cheese
+
+Ram's Testicles
+Ham Ears
+Lamb Shins
+A Man's Mule
+A Horse called Rupert
