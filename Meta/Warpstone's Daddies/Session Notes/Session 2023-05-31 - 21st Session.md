@@ -17,3 +17,8 @@ Ham Ears
 Lamb Shins
 A Man's Mule
 A Horse called Rupert
+Cow Hooves
+
+Sea Cheese
+Cheese derived of Cow
+Mother's Cheese
