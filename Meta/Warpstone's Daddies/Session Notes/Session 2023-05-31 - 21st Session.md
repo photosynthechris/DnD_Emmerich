@@ -22,3 +22,6 @@ Cow Hooves
 Sea Cheese
 Cheese derived of Cow
 Mother's Cheese
+Bull Cheese
+Peanut
+Wild Cheese
