@@ -1,0 +1,1 @@
+Party returns to the bar, it is about midday.

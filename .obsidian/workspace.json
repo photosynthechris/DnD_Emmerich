@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meta/Warpstone's Daddies/Session Notes/Session 2023-05-20 - 20th Session.md",
+                "file": "Meta/Warpstone's Daddies/Session Notes/Session 2023-05-31 - 21st Session.md",
                 "mode": "source",
                 "source": false
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meta/Warpstone's Daddies/Session Notes/Session 2023-05-20 - 20th Session.md",
+                "file": "Meta/Warpstone's Daddies/Session Notes/Session 2023-05-31 - 21st Session.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Meta/Warpstone's Daddies/Session Notes/Session 2023-05-20 - 20th Session.md",
+                "file": "Meta/Warpstone's Daddies/Session Notes/Session 2023-05-31 - 21st Session.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -242,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Meta/Warpstone's Daddies/Session Notes/Session 2023-05-20 - 20th Session.md"
+                "file": "Meta/Warpstone's Daddies/Session Notes/Session 2023-05-31 - 21st Session.md"
               }
             }
           },
@@ -283,12 +283,13 @@
   },
   "active": "1e0bb2e38cd4ab11",
   "lastOpenFiles": [
+    "Meta/Warpstone's Daddies/Session Notes/Session 2023-05-20 - 20th Session.md",
+    "Meta/Warpstone's Daddies/Session Notes/Session 2023-05-31 - 21st Session.md",
     "Meta/Warpstone's Daddies/Session Notes/Session 2023-01-21 - 12th session.md",
     "Meta/Warpstone's Daddies/Session Notes/Session 2023-02-01 - 13th session.md",
     "Meta/Warpstone's Daddies/Session Notes/Session 2023-03-29 - 16th Session.md",
     "Meta/Warpstone's Daddies/Session Notes/Session 2023-04-12 - 17th Session.md",
     "Meta/Warpstone's Daddies/Session Notes/Session 2023-05-06 - 18th Session.md",
-    "Meta/Warpstone's Daddies/Session Notes/Session 2023-05-20 - 20th Session.md",
     "Meta/Warpstone's Daddies/Session Notes/Session 2023-05-10 - 19th Session.md",
     "Meta/Warpstone's Daddies/Session Notes/Session 2022-12-03.md",
     "Meta/Warpstone's Daddies/Session Notes/Session 2022-11-27.md",
@@ -308,7 +309,6 @@
     "organizations/Lunumbra/Tor/Emmerich/Sgoil Theatar Talmhainn.md",
     "Meta/Warpstone's Daddies/Player Brainstorms/Alison Brainstorming.md",
     "locations/Lunumbra/Tor/Emmerich/Intercontinental Highway of Emmerich.md",
-    "concepts/mw_portal_room.png",
-    "concepts/Leebeltar.md"
+    "concepts/mw_portal_room.png"
   ]
 }
