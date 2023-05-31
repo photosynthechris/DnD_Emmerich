@@ -9,3 +9,5 @@ I reflect the light, that’s not very bright. I sit in the same place all year,
 Gets computer out, dwarf tries to get signal, flash with elder brain connection instead
 
 An... "octopus?" appears on the screen briefly, but only Kelda notices
+
+Emmanuel Umble Beachy's Meats & Cheese
