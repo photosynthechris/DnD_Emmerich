@@ -29,3 +29,6 @@ Wild Cheese
 Beozorth, the Firestarter
 
 "Huh oh yeah that fireworks dude! You are welcome to come visit. Please meet me at the northern entrance to the temple and I will...|| show you our libraries and labs."
+
+Poogey fails on "Drow Excretions"
+
