@@ -32,4 +32,4 @@ Beozorth, the Firestarter
 
 Poogey fails on "Drow Excretions"
 
-"The Bar"
+"The Bar" by Essek
