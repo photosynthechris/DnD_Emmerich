@@ -33,3 +33,5 @@ Beozorth, the Firestarter
 Poogey fails on "Drow Excretions"
 
 "The Bar" by Essek
+
+Walks into closet on the north side on the left of the hall
