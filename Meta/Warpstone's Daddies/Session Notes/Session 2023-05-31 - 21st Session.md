@@ -25,3 +25,5 @@ Mother's Cheese
 Bull Cheese
 Peanut
 Wild Cheese
+
+Beozorth, the Firestarter
