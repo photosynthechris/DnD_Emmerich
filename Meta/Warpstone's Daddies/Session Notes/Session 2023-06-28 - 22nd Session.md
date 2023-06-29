@@ -9,3 +9,8 @@ Orym - High Priest
 King Aquilan the Fourth (Aquilan Wynquinal)
 
 Guy seems to have a lot of hesitation in the building and around the priests.
+
+Tali goes down the shute to the monk level
+
+Tali senses a great evil from below her
+
