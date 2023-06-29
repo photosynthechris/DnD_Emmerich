@@ -45,3 +45,4 @@ Essek uses sending:
 
 
 
+"They speak the language of the deep dark, behind the most ancient and darkest of stars. We call it: Deep Speech."
