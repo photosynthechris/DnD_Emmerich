@@ -39,3 +39,9 @@ Makes a classic black tophat with purple ribbon and silver broach for fredrick
 
 Poogey wants to go down to the double doors the guard entered and sit and guard, panthers are guarding
 
+Essek uses sending:
+
+"I need to know what language so that I can ask them some very important questions."
+
+
+
