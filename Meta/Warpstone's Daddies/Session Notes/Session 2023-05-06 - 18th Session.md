@@ -46,3 +46,8 @@ Essek uses sending:
 
 
 "They speak the language of the deep dark, behind the most ancient and darkest of stars. We call it: Deep Speech."
+
+
+Essek gets:
+
+"I have thoughts that cannot fit in a sending. I believe there's structure. But I have not the intellect to decipher it."
