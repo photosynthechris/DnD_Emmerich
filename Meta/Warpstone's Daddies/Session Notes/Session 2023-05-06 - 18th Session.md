@@ -51,3 +51,10 @@ Essek uses sending:
 Essek gets:
 
 "I have thoughts that cannot fit in a sending. I believe there's structure. But I have not the intellect to decipher it."
+
+Tali jumps through the center of the spire
+
+Essek gets:
+
+"This is faster than I wanted. We all need to go down there. They won't follow us and the monks will cover us."
+
