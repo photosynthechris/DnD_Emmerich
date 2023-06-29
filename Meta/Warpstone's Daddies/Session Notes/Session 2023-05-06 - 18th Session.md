@@ -58,3 +58,4 @@ Essek gets:
 
 "This is faster than I wanted. We all need to go down there. They won't follow us and the monks will cover us."
 
+Chris uses the hand imitator
