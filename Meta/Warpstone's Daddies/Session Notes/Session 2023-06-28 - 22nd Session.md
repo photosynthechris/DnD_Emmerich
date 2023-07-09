@@ -14,3 +14,5 @@ Tali goes down the shute to the monk level
 
 Tali senses a great evil from below her
 
+NSEW
+
