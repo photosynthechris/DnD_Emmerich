@@ -1,1 +1,3 @@
 Party makes it to the bottom of the stairs...
+
+Poogey gets an ilithid spawn
