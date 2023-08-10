@@ -26,3 +26,5 @@ A: 30 - 21 = 8 - 27 = 0 + 14 = 14
 -----
 
 Kill the brain, Essek and Poogey recieve a vision...
+
+Level up after you all get out of here
