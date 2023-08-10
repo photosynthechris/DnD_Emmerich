@@ -18,6 +18,6 @@ MaHomes DW1: 37
 Dionne Bush DW2: 37
 T:
 K:
-EB: 210
+EB: 210 (used mind blast)
 NE: 232 - 26 = 206 - 31 - 7 - 14 = (max 210) = 154 - 32 = 122
-A: 30
+A: 30 - 21 = 8
