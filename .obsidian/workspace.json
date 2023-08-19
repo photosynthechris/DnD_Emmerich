@@ -78,9 +78,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "eebb4d27295b0ccc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meta/Warpstone's Daddies/Session Notes/Session 2023-08-19 - 25th Session.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -154,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meta/Warpstone's Daddies/Session Notes/Session 2023-08-09 - 24th Session.md",
+                "file": "Meta/Warpstone's Daddies/Session Notes/Session 2023-08-19 - 25th Session.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Meta/Warpstone's Daddies/Session Notes/Session 2023-08-09 - 24th Session.md",
+                "file": "Meta/Warpstone's Daddies/Session Notes/Session 2023-08-19 - 25th Session.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -194,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Meta/Warpstone's Daddies/Session Notes/Session 2023-08-09 - 24th Session.md"
+                "file": "Meta/Warpstone's Daddies/Session Notes/Session 2023-08-19 - 25th Session.md"
               }
             }
           },
@@ -233,11 +245,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f64ec9178953aaec",
+  "active": "eebb4d27295b0ccc",
   "lastOpenFiles": [
+    "Meta/Warpstone's Daddies/Session Notes/Session 2023-08-09 - 24th Session.md",
+    "Meta/Warpstone's Daddies/Session Notes/Session 2023-08-19 - 25th Session.md",
+    "Meta/Warpstone's Daddies/Session Notes/Session 2023-01-21 - 12th session.md",
+    "Meta/Warpstone's Daddies/Session Notes/Session 2022-12-03.md",
+    "Meta/Warpstone's Daddies/Session Notes/Session 2022-11-27.md",
     "Meta/Warpstone's Daddies/Session Notes/Session 2023-07-09 - 23nd Session.md",
     "Meta/Warpstone's Daddies/Session Notes/Session 2023-06-28 - 22nd Session.md",
-    "Meta/Warpstone's Daddies/Session Notes/Session 2023-08-09 - 24th Session.md",
     "Meta/Warpstone's Daddies/Session Notes/Session 2023-03-29 - 16th Session.md",
     "Meta/Warpstone's Daddies/Session Notes/Session 2023-05-20 - 20th Session.md",
     "Meta/Warpstone's Daddies/Session Notes/Session 2023-05-10 - 19th Session.md",
@@ -246,11 +262,8 @@
     "Meta/Warpstone's Daddies/Session Notes/Session 2023-04-05 - Session Grogg Pt. 1.md",
     "Meta/Warpstone's Daddies/Session Notes/Session 2022-10-16.md",
     "Meta/Warpstone's Daddies/Session Notes/Session 2022-11-06.md",
-    "Meta/Warpstone's Daddies/Session Notes/Session 2022-11-27.md",
     "Meta/Warpstone's Daddies/Session Notes/Session 2023-03-08 - 14th session.md",
     "Meta/Warpstone's Daddies/Session Notes/Session 2023-02-01 - 13th session.md",
-    "Meta/Warpstone's Daddies/Session Notes/Session 2023-01-21 - 12th session.md",
-    "Meta/Warpstone's Daddies/Session Notes/Session 2022-12-03.md",
     "Meta/Warpstone's Daddies/Session Notes/Session 2023-05-31 - 21st Session.md",
     "Meta/Warpstone's Daddies/Session Notes/Session 2023-03-22 - 15th Session.md",
     "Meta/Warpstone's Daddies/Session Notes/Session 2022-09-25.md",
@@ -260,7 +273,6 @@
     "organizations/Lunumbra/Tor/Emmerich/Domus Iustitiae.md",
     "organizations/Lunumbra/Tor/Emmerich/Kuunsterkollektiv.md",
     "organizations/Lunumbra/Tor/Emmerich/Mont de Pierre Liberation Movement.md",
-    "organizations/Lunumbra/Tor/Emmerich/Raven's Sheild Institution of Arcana and Natural Sciences.md",
     "concepts/mw_portal_room.png"
   ]
 }
