@@ -12,3 +12,8 @@ Tali is having a bad time
 
 Has remembered her family home and family
 
+7
+13
+2
+26
+56
