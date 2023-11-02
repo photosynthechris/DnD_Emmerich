@@ -114,9 +114,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e00cc9328750e24e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -269,7 +279,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6f7008072a78394c",
+  "active": "e00cc9328750e24e",
   "lastOpenFiles": [
     "Meta/Warpstone's Daddies/Session Notes/Session 2023-03-08 - 14th session.md",
     "Meta/Warpstone's Daddies/Session Notes/Session 2023-03-22 - 15th Session.md",
