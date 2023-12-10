@@ -25,14 +25,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "organizations/Lunumbra/Tor/Emmerich/Spooky Underground Moon City/The Selene Council.md",
+                "file": "organizations/Lunumbra/Tor/Emmerich/Eilistrae/The Selene Council.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a092b2fc24a3fe03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "organizations/Lunumbra/Tor/Emmerich/Eilistrae/The Selene Council.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3fb019c5c5783322",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "locations/Lunumbra/Tor/Emmerich/Underdark/Eiliut.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -106,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "organizations/Lunumbra/Tor/Emmerich/Spooky Underground Moon City/The Selene Council.md",
+                "file": "locations/Lunumbra/Tor/Emmerich/Underdark/Eiliut.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "organizations/Lunumbra/Tor/Emmerich/Spooky Underground Moon City/The Selene Council.md",
+                "file": "locations/Lunumbra/Tor/Emmerich/Underdark/Eiliut.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -146,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "organizations/Lunumbra/Tor/Emmerich/Spooky Underground Moon City/The Selene Council.md"
+                "file": "locations/Lunumbra/Tor/Emmerich/Underdark/Eiliut.md"
               }
             }
           },
@@ -185,13 +209,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b8bd053b35ab63ac",
+  "active": "3fb019c5c5783322",
   "lastOpenFiles": [
-    "organizations/Lunumbra/Tor/Emmerich/Spooky Underground Moon City.md",
-    "organizations/Lunumbra/Tor/Emmerich/Spooky Underground Moon City/The Selene Council.md",
+    "organizations/Lunumbra/Tor/Emmerich/Eilistrae/The Selene Council.md",
+    "organizations/Lunumbra/Tor/Emmerich/Eilistrae/Cult of Eilistrae.md",
+    "locations/Lunumbra/Tor/Emmerich/High Plains/Lustrine Swamps/Mont de Pierre/Lower City/West Gate/Temple of Eilistrae.md",
+    "organizations/Lunumbra/Tor/Emmerich/Eilistrae/Spooky Underground Moon City.md",
     "organizations/Lunumbra/Tor/Emmerich/Spooky Underground Moon City - Info.md",
     "Meta/Warpstone's Daddies/Session Notes/Session 2024-09-27 - 26th Session.md",
-    "organizations/Lunumbra/Tor/Emmerich/Spooky Underground Moon City",
+    "organizations/Lunumbra/Tor/Emmerich/Eilistrae",
     "Meta/Warpstone's Daddies/Session Notes/Session 2023-05-20 - 20th Session.md",
     "Meta/Warpstone's Daddies/Session Notes/Session 2023-05-31 - 21st Session.md",
     "Meta/Warpstone's Daddies/Session Notes/Session 2023-06-28 - 22nd Session.md",
@@ -212,8 +238,6 @@
     "Meta/Warpstone's Daddies/Session Notes/Session 2022-12-03.md",
     "Meta/Warpstone's Daddies/Session Notes/Session 2022-11-27.md",
     "Meta/Warpstone's Daddies/Session Notes/Session 2022-10-16.md",
-    "Meta/Warpstone's Daddies/Session Notes/Session 2022-11-06.md",
-    "Meta/Warpstone's Daddies/Session Notes/Session 2023-02-01 - 13th session.md",
     "concepts/mw_portal_room.png"
   ]
 }
