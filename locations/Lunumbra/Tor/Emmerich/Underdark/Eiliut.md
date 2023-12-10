@@ -63,7 +63,10 @@ But, in summary:
 - This effort would have taken thousands of years and likely would encompass a complicated history on it's own. But generally, I'm thinking that as time went on the peoples of Mars became more and more elf-like culturally and biologically. I think their long lifespans and tall stature would have emerged in this time, but I also don't think there would be enough separation between the factions for there to be distinct races yet.
 - Regardless I think as the surface gets more habitable there's a gentle momentum on the lower class (drow and underclass dome citizens) to move out onto the surface. Dome cities become regular cities pretty quickly, though likely keep the dome as historical features for as long as they can. Most dome underclass become almost suburban to the dome cities, but also mix with the portion of the drow that also migrate to the surface in the early days. These two populations become the basis for the spectrum of eladrin.
 - Many drow reject the call to move to the surface, partly out of stubborness and dedication to their heritage, and partly out of resistance to move into largely aristocratic controlled settlements. The tunnels and lava tubes always had the advantage of being guerilla territory, it gave the drow power by virtue of it being their very own, incomprenhensible home. As the surface got more powerful and the push for surface capital grew, the aristocracy began an almost colonial resettlement effort on the drow population.
-- 
+- A great war would have broken out around the inflection point that the atmosphere was thick enough for most people to breathe in without assistance. Rather, it would be a comprehensive collapse of the societal order as it had been for thousands of years at that point. Society would have fragmented into many warring divisions, but with a general seismic divide between the high aristocracy, and the tunnel drow.
+- The specifics of the conflict would be best served to explore in detail, I think. But in general, I think you'd find that in the aftermath:
+	- The high aristocracy, who would become the High Elves, would maintain concentrated power in the ancient domed cities. They would hold a certain degree of authority over some of the world, but only in the form of trade and diplomatic relationships.
+	- 
 
 ===============================
 
